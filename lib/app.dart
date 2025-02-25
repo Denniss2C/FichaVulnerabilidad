@@ -1,6 +1,7 @@
-import 'package:flutter/material.dart';
-import 'package:fichavulnerabilidad/screens/home.dart';
+import 'package:fichavulnerabilidad/screens/splash.dart';
 import 'package:fichavulnerabilidad/utils/routes.dart';
+import 'package:fichavulnerabilidad/utils/ui/ui.dart';
+import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -11,8 +12,8 @@ class MyApp extends StatelessWidget {
       title: 'Material App',
       routes: routes,
       debugShowCheckedModeBanner: false,
-      initialRoute: HomeScreen.routeName,
-      theme: ThemeData.light(useMaterial3: true),
+      initialRoute: SplashScreen.routeName,
+      theme: TrackingThemes.light,
       // Modificar el tema del texto
       // theme: ThemeData.light(useMaterial3: true).copyWith(
       //   textTheme: TextTheme(
