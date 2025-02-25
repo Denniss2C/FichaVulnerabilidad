@@ -1,5 +1,7 @@
+import 'package:fichavulnerabilidad/screens/infoMIES.dart';
+import 'package:fichavulnerabilidad/screens/lista_encuestas.dart';
+import 'package:fichavulnerabilidad/screens/new_encuesta.dart';
 import 'package:flutter/material.dart';
-import 'package:fichavulnerabilidad/screens/button1.dart';
 
 class CustomDrawer extends StatelessWidget {
   const CustomDrawer({super.key});
@@ -41,7 +43,7 @@ class CustomDrawer extends StatelessWidget {
             title: const Text('Unit 2'),
             onTap: () {
               // Implementar la lógica para navegar a la pantalla de inicio
-              // Navigator.pushNamed(context, Unit2Screen.routeName);
+              Navigator.pushNamed(context, EncuestaRegistrada.routeName);
             },
           ),
           ListTile(
@@ -49,47 +51,7 @@ class CustomDrawer extends StatelessWidget {
             title: const Text('Unit 3'),
             onTap: () {
               // Implementar la lógica para navegar a la pantalla de inicio
-              // Navigator.pushNamed(context, Unit3Screen.routeName);
-            },
-          ),
-          ListTile(
-            leading: const Icon(Icons.add_comment),
-            title: const Text('Unit 4'),
-            onTap: () {
-              // Implementar la lógica para navegar a la pantalla de inicio
-              // Navigator.pushNamed(context, Unit4Screen.routeName);
-            },
-          ),
-          ListTile(
-            leading: const Icon(Icons.add_comment),
-            title: const Text('Unit 5'),
-            onTap: () {
-              // Implementar la lógica para navegar a la pantalla de inicio
-              // Navigator.pushNamed(context, Unit5Screen.routeName);
-            },
-          ),
-          ListTile(
-            leading: const Icon(Icons.add_comment),
-            title: const Text('Unit 6'),
-            onTap: () {
-              // Implementar la lógica para navegar a la pantalla de inicio
-              // Navigator.pushNamed(context, Unit6Screen.routeName);
-            },
-          ),
-          ListTile(
-            leading: const Icon(Icons.add_comment),
-            title: const Text('Unit 7'),
-            onTap: () {
-              // Implementar la lógica para navegar a la pantalla de inicio
-              // Navigator.pushNamed(context, Unit7Screen.routeName);
-            },
-          ),
-          ListTile(
-            leading: const Icon(Icons.add_comment),
-            title: const Text('Unit 8'),
-            onTap: () {
-              // Implementar la lógica para navegar a la pantalla de inicio
-              // Navigator.pushNamed(context, Unit8Screen.routeName);
+              Navigator.pushNamed(context, Mies.routeName);
             },
           ),
           const Divider(),

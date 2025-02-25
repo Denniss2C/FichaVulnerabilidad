@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:fichavulnerabilidad/screens/home.dart';
+import 'package:fichavulnerabilidad/utils/ui/dimens.dart';
 import 'package:fichavulnerabilidad/utils/ui/drawables.dart';
 import 'package:flutter/material.dart';
 
@@ -18,8 +19,8 @@ class _SplashScreenState extends State<SplashScreen> {
   void initState() {
     super.initState();
 
-    // ⏳ Espera 3 segundos y navega a la HomeScreen
-    Timer(const Duration(seconds: 3), () {
+    // ⏳ Espera 4 segundos y navega a la HomeScreen
+    Timer(const Duration(seconds: 4), () {
       Navigator.pushReplacementNamed(context, HomeScreen.routeName);
     });
   }
@@ -38,7 +39,8 @@ class _SplashScreenState extends State<SplashScreen> {
             ),
             const Padding(
               padding: EdgeInsets.only(
-                  top: 16.0), // Espacio entre la imagen y el indicador
+                  top: TrackingDimens
+                      .dimen_24), // Espacio entre la imagen y el indicador
               child: CircularProgressIndicator.adaptive(),
             ),
           ],

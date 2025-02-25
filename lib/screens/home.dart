@@ -1,8 +1,9 @@
-import 'package:flutter/material.dart';
-import 'package:fichavulnerabilidad/screens/button1.dart';
-import 'package:fichavulnerabilidad/screens/button2.dart';
-import 'package:fichavulnerabilidad/screens/button3.dart';
+import 'package:fichavulnerabilidad/screens/infoMIES.dart';
+import 'package:fichavulnerabilidad/screens/lista_encuestas.dart';
+import 'package:fichavulnerabilidad/screens/new_encuesta.dart';
+import 'package:fichavulnerabilidad/utils/ui/ui.dart';
 import 'package:fichavulnerabilidad/widgets/drawer.dart';
+import 'package:flutter/material.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -12,105 +13,113 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        //appbar con navigation drawer
-        appBar: AppBar(
-          title: const Text(
-            'VulneDis',
-            style: TextStyle(color: Colors.white),
-          ),
-          backgroundColor: Colors.black87,
-          iconTheme: const IconThemeData(
-            color: Colors.white, // Cambia esto al color que desees
+      appBar: AppBar(
+        title: const Text(
+          'VULNEDIS',
+          style: TextStyle(
+            color: Colors.white,
           ),
         ),
-        //navigation drawer
-        drawer: const CustomDrawer(),
-        //body
-        body: Column(
-          children: [
-            Row(
-              //poner una imagen y al lado un texto de "Diversidad somos todos"
-              children: [
-                Image.asset(
-                  'assets/images/diversidad.jpeg',
-                  height: 100,
-                  width: 100,
-                ),
-                const Text('Diversidad somos todos')
-              ],
-            ),
-            //botones redondos usando la misma imagen dos botones en un row y el otro debajo de eso, el boton redirige a button1.dart
-            Row(
-              children: [
-                Column(
-                  children: [
-                    Container(
-                      height: 100,
-                      width: 100,
-                      decoration: BoxDecoration(
-                        color: Colors.blue,
-                        borderRadius: BorderRadius.circular(50),
-                      ),
-                      child: IconButton(
-                        icon: const Icon(Icons.add_comment),
-                        onPressed: () {
-                          Navigator.pushNamed(context, NuevaEncuesta.routeName);
-                        },
-                      ),
-                    ),
-                    const Text('Registro de nueva encuesta')
-                  ],
-                ),
-                Column(
-                  children: [
-                    Container(
-                      height: 100,
-                      width: 100,
-                      decoration: BoxDecoration(
-                        color: Colors.blue,
-                        borderRadius: BorderRadius.circular(50),
-                      ),
-                      child: IconButton(
-                        icon: const Icon(Icons.add_comment),
-                        onPressed: () {
-                          Navigator.pushNamed(
-                              context, EncuestaResgistrada.routeName);
-                        },
-                      ),
-                    ),
-                    const Text('Encuestas registradas')
-                  ],
-                ),
-              ],
-            ),
-            Column(
-              children: [
-                Container(
-                  height: 100,
-                  width: 100,
-                  decoration: BoxDecoration(
-                    color: Colors.blue,
-                    borderRadius: BorderRadius.circular(50),
-                  ),
-                  child: IconButton(
-                    icon: const Icon(Icons.add_comment),
-                    onPressed: () {
-                      Navigator.pushNamed(context, Mies.routeName);
-                    },
-                  ),
-                ),
-                const Text('MIES')
-              ],
-            ),
-            Padding(
-              padding: const EdgeInsets.all(24.0),
-              child: Image.asset(
-                'assets/images/diversidad.jpeg',
-                height: 200,
-                width: 200,
+        backgroundColor: TrackingColors.negro,
+        iconTheme: const IconThemeData(
+          color: Colors.white,
+        ),
+        centerTitle: true, // Centra el título
+      ),
+      //Manejador de pestañas
+      drawer: const CustomDrawer(),
+      //Cuerpo del home
+      body: Stack(
+        children: [
+          Container(
+            decoration: BoxDecoration(
+              image: DecorationImage(
+                image: AssetImage(TrackingDrawables.getFondoMies()),
+                fit: BoxFit.cover,
               ),
             ),
-          ],
-        ));
+          ),
+          Column(
+            children: [
+              Expanded(
+                flex: 1,
+                child: Image.asset(
+                  TrackingDrawables.getBanner(),
+                  fit: BoxFit.cover,
+                  width: double.infinity,
+                ),
+              ),
+              Expanded(
+                flex: 2,
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                  children: [
+                    InkWell(
+                      onTap: () {
+                        // Navega a la otra pantalla aquí
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                              builder: (context) =>
+                                  const NuevaEncuesta()), // Reemplaza TuOtraPantalla() con tu widget de destino
+                        );
+                      },
+                      child: Image.asset(
+                        TrackingDrawables.getNuevaEncuesta(),
+                        width: 175,
+                        height: 175,
+                      ),
+                    ),
+                    InkWell(
+                      onTap: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                              builder: (context) => const EncuestaRegistrada()),
+                        );
+                      },
+                      child: Image.asset(
+                        TrackingDrawables.getListaEncuestas(),
+                        width: 175,
+                        height: 175,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              Expanded(
+                flex: 2,
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    InkWell(
+                      onTap: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => const Mies()),
+                        );
+                      },
+                      child: Image.asset(
+                        TrackingDrawables.getInfo(),
+                        width: 175,
+                        height: 175,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              Align(
+                alignment: Alignment.bottomCenter,
+                child: Image.asset(
+                  TrackingDrawables.getFlatEcuador(),
+                  fit: BoxFit.fitWidth,
+                  width: double.infinity,
+                ),
+              ),
+            ],
+          ),
+        ],
+      ),
+    );
   }
 }

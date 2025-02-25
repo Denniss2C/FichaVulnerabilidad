@@ -5,7 +5,7 @@ class TrackingThemes {
   TrackingThemes._();
 
   static final ColorScheme _colorSchemeLight = ColorScheme.light(
-    primary: TrackingColors.primary,
+    primary: TrackingColors.primario,
   );
 
   static ThemeData get light {

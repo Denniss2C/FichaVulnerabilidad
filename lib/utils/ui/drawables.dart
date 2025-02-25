@@ -4,4 +4,12 @@ class TrackingDrawables {
   static String getLogoColor() => 'assets/images/LOCOLOR.png';
   static String getLogoBlanco() => 'assets/images/LOBLANCO.png';
   static String getLogoAzul() => 'assets/images/LOAZUL.png';
+
+  static String getBanner() => 'assets/images/ic_banner.png';
+  static String getNuevaEncuesta() => 'assets/images/ic_new_encuesta.png';
+  static String getListaEncuestas() => 'assets/images/ic_lista_encuestas.png';
+  static String getInfo() => 'assets/images/ic_info.png';
+  static String getFlatEcuador() => 'assets/images/flat_ecuador.png';
+  static String getFondoMies() => 'assets/images/fondo_mies.png';
+  static String getUsuario() => 'assets/images/ic_user.png';
 }

@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 
-class EncuestaResgistrada extends StatefulWidget {
-  const EncuestaResgistrada({super.key});
+class EncuestaRegistrada extends StatefulWidget {
+  const EncuestaRegistrada({super.key});
   static const String routeName = '/encuesta_regitrada';
 
   @override
-  State<EncuestaResgistrada> createState() => _EncuestaResgistradaState();
+  State<EncuestaRegistrada> createState() => _EncuestaRegistradaState();
 }
 
-class _EncuestaResgistradaState extends State<EncuestaResgistrada> {
+class _EncuestaRegistradaState extends State<EncuestaRegistrada> {
   @override
   Widget build(BuildContext context) {
     //poner el nombre en el medio
