@@ -14,17 +14,17 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text(
+        title: Text(
           'VULNEDIS',
           style: TextStyle(
-            color: Colors.white,
+            color: TrackingColors.blanco,
           ),
         ),
         backgroundColor: TrackingColors.negro,
-        iconTheme: const IconThemeData(
-          color: Colors.white,
+        iconTheme: IconThemeData(
+          color: TrackingColors.blanco,
         ),
-        centerTitle: true, // Centra el título
+        centerTitle: true,
       ),
       //Manejador de pestañas
       drawer: const CustomDrawer(),
@@ -34,7 +34,9 @@ class HomeScreen extends StatelessWidget {
           Container(
             decoration: BoxDecoration(
               image: DecorationImage(
-                image: AssetImage(TrackingDrawables.getFondoMies()),
+                image: Theme.of(context).brightness == Brightness.light
+                    ? AssetImage(TrackingDrawables.getFondoMies())
+                    : AssetImage(TrackingDrawables.getFondoMiesDark()),
                 fit: BoxFit.cover,
               ),
             ),

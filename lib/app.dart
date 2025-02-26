@@ -14,6 +14,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       initialRoute: SplashScreen.routeName,
       theme: TrackingThemes.light,
+      darkTheme: TrackingThemes.dark,
+      themeMode: ThemeMode.system,
       // Modificar el tema del texto
       // theme: ThemeData.light(useMaterial3: true).copyWith(
       //   textTheme: TextTheme(

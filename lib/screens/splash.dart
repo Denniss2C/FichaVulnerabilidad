@@ -1,8 +1,7 @@
 import 'dart:async';
 
 import 'package:fichavulnerabilidad/screens/home.dart';
-import 'package:fichavulnerabilidad/utils/ui/dimens.dart';
-import 'package:fichavulnerabilidad/utils/ui/drawables.dart';
+import 'package:fichavulnerabilidad/utils/ui/ui.dart';
 import 'package:flutter/material.dart';
 
 class SplashScreen extends StatefulWidget {
@@ -27,20 +26,20 @@ class _SplashScreenState extends State<SplashScreen> {
 
   @override
   Widget build(BuildContext context) {
+    final theme = Theme.of(context); // Obtiene el tema actual
     return Scaffold(
-      backgroundColor: Colors.white,
+      backgroundColor: theme.scaffoldBackgroundColor,
       body: Center(
         child: Column(
-          mainAxisSize:
-              MainAxisSize.min, // Ajusta el tamaño del Column al contenido
+          mainAxisSize: MainAxisSize.min,
           children: <Widget>[
             Image.asset(
-              TrackingDrawables.getLogoColor(),
+              Theme.of(context).brightness == Brightness.light
+                  ? TrackingDrawables.getLogoColor()
+                  : TrackingDrawables.getLogoBlanco(),
             ),
             const Padding(
-              padding: EdgeInsets.only(
-                  top: TrackingDimens
-                      .dimen_24), // Espacio entre la imagen y el indicador
+              padding: EdgeInsets.only(top: TrackingDimens.dimen_24),
               child: CircularProgressIndicator.adaptive(),
             ),
           ],

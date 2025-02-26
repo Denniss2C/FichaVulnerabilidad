@@ -9,5 +9,5 @@ class TrackingColors {
 
   static Color get primaryDark => const Color.fromARGB(255, 243, 218, 255);
 
-  static Color get lightGrey => const Color.fromARGB(255, 240, 240, 240);
+  static Color get lightGrey => const Color.fromARGB(255, 99, 99, 99);
 }

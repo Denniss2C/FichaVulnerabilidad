@@ -11,6 +11,7 @@ class TrackingDrawables {
   static String getInfo() => 'assets/images/ic_info.png';
   static String getFlatEcuador() => 'assets/images/flat_ecuador.png';
   static String getFondoMies() => 'assets/images/fondo_mies.png';
+  static String getFondoMiesDark() => 'assets/images/fondo_mies_dark.JPEG';
   static String getUsuario() => 'assets/images/ic_user.png';
   static String getLaucher() => 'assets/images/ic_launcher.png';
 
@@ -20,4 +21,5 @@ class TrackingDrawables {
   static String getSVGListaRegistros() => 'assets/svg/lista_registros.svg';
   static String getSVGLogin() => 'assets/svg/login.svg';
   static String getSVGLogout() => 'assets/svg/logout.svg';
+  static String getSVGLauncher() => 'assets/svg/info_dis.svg';
 }

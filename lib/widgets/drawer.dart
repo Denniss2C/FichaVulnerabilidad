@@ -1,9 +1,12 @@
+import 'package:fichavulnerabilidad/screens/home.dart';
 import 'package:fichavulnerabilidad/screens/infoMIES.dart';
 import 'package:fichavulnerabilidad/screens/lista_encuestas.dart';
 import 'package:fichavulnerabilidad/screens/new_encuesta.dart';
+import 'package:fichavulnerabilidad/utils/ui/color.dart';
 import 'package:fichavulnerabilidad/utils/ui/drawables.dart';
-import 'package:flutter_svg/flutter_svg.dart';
+import 'package:fichavulnerabilidad/widgets/login_dialog.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 
 class CustomDrawer extends StatelessWidget {
   const CustomDrawer({super.key});
@@ -13,81 +16,83 @@ class CustomDrawer extends StatelessWidget {
     return Drawer(
       child: ListView(
         children: [
-          const UserAccountsDrawerHeader(
-            accountName: Text('Bienvenido'),
-            accountEmail: Text('  dsfdsf@sad.com '),
+          UserAccountsDrawerHeader(
+            accountName: const Text('Bienvenido'),
+            accountEmail: const Text('  dsfdsf@sad.com '),
             currentAccountPicture: CircleAvatar(
-              backgroundColor: Colors.white,
-              child: Icon(
-                Icons.person,
-                size: 40,
-              ),
+                backgroundColor: TrackingColors.blanco,
+                child: Image.asset(
+                  TrackingDrawables.getUsuario(),
+                )),
+            decoration: BoxDecoration(
+              color: TrackingColors.lightGrey, // Fondo gris
             ),
           ),
           ListTile(
             leading: SvgPicture.asset(
-              TrackingDrawables.getSVGPrincipal(), // Ruta al archivo SVG
-              width: 40, // Ajusta el tamaño según sea necesario
+              TrackingDrawables.getSVGPrincipal(),
+              width: 40,
               height: 40,
             ),
             title: const Text('Principal'),
             subtitle: const Text('Pantalla principal'),
             onTap: () {
-              // Implementar la lógica para navegar a la pantalla de inicio
-              Navigator.pushNamed(context, NuevaEncuesta.routeName);
+              Navigator.pushNamed(context, HomeScreen.routeName);
             },
           ),
           ListTile(
             leading: Image.asset(
               TrackingDrawables.getLaucher(),
-              width: 40, // Ajusta el tamaño según sea necesario
+              width: 40,
               height: 40,
             ),
             title: const Text('Llenar Encuesta'),
             subtitle: const Text('Personas con discapacidad'),
             onTap: () {
-              // Implementar la lógica para navegar a la pantalla de inicio
               Navigator.pushNamed(context, NuevaEncuesta.routeName);
             },
           ),
           ListTile(
             leading: SvgPicture.asset(
-              TrackingDrawables.getSVGListaRegistros(), // Ruta al archivo SVG
-              width: 40, // Ajusta el tamaño según sea necesario
+              TrackingDrawables.getSVGListaRegistros(),
+              width: 40,
               height: 40,
             ),
             title: const Text('Encuestas Registradas'),
             subtitle: const Text('Listado de encuestas'),
             onTap: () {
-              // Implementar la lógica para navegar a la pantalla de inicio
               Navigator.pushNamed(context, EncuestaRegistrada.routeName);
             },
           ),
           ListTile(
             leading: SvgPicture.asset(
-              TrackingDrawables.getSVGAcercaDe(), // Ruta al archivo SVG
-              width: 40, // Ajusta el tamaño según sea necesario
+              TrackingDrawables.getSVGAcercaDe(),
+              width: 40,
               height: 40,
             ),
             title: const Text('Acerca de'),
             subtitle: const Text('Información aplicación'),
             onTap: () {
-              // Implementar la lógica para navegar a la pantalla de inicio
               Navigator.pushNamed(context, Mies.routeName);
             },
           ),
           const Divider(),
           ListTile(
             leading: SvgPicture.asset(
-              TrackingDrawables.getSVGLogin(), // Ruta al archivo SVG
-              width: 40, // Ajusta el tamaño según sea necesario
+              TrackingDrawables.getSVGLogin(),
+              width: 40,
               height: 40,
             ),
             title: const Text('Iniciar Sesión'),
             subtitle: const Text('Iniciar sesión en la aplicación'),
             onTap: () {
-              // Implementar la lógica para cerrar sesión o salir de la aplicación
-              Navigator.pop(context);
+              Navigator.pushNamed(context, HomeScreen.routeName);
+              showLoginDialog(context).then((value) {
+                if (value != null) {
+                  // Aquí puedes manejar los datos devueltos
+                  print('Datos devueltos: $value');
+                }
+              });
             },
           ),
         ],
