@@ -1,4 +1,5 @@
 import 'package:fichavulnerabilidad/screens/home.dart';
+import 'package:fichavulnerabilidad/utils/services/login/login_service.dart';
 import 'package:flutter/material.dart';
 
 Future<Map<String, String>?> showLoginDialog(BuildContext context) async {
@@ -33,14 +34,27 @@ Future<Map<String, String>?> showLoginDialog(BuildContext context) async {
             child: const Text('Cancelar'),
           ),
           TextButton(
-            onPressed: () {
+            onPressed: () async {
               String username = usernameController.text;
               String password = passwordController.text;
               if (username.isNotEmpty && password.isNotEmpty) {
-                Navigator.of(context).pop({
-                  'username': username,
-                  'password': password,
-                }); // Devuelve los datos
+                final result = await loginUser(username, password);
+
+                if (result['status'] == 'success') {
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    SnackBar(
+                      content: Text('Bienvenido, ${result['nombreuser']}'),
+                    ),
+                  );
+                  Navigator.pushNamed(context, HomeScreen.routeName);
+                } else {
+                  print('Error en el login: ${result['message']}');
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    SnackBar(
+                      content: Text('Error: ${result['message']}'),
+                    ),
+                  );
+                }
               } else if (username.isNotEmpty && password.isEmpty) {
                 ScaffoldMessenger.of(context).showSnackBar(
                   const SnackBar(

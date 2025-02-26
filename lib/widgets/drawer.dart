@@ -4,7 +4,7 @@ import 'package:fichavulnerabilidad/screens/lista_encuestas.dart';
 import 'package:fichavulnerabilidad/screens/new_encuesta.dart';
 import 'package:fichavulnerabilidad/utils/ui/color.dart';
 import 'package:fichavulnerabilidad/utils/ui/drawables.dart';
-import 'package:fichavulnerabilidad/widgets/login_dialog.dart';
+import 'package:fichavulnerabilidad/utils/services/login/login_dialog.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
