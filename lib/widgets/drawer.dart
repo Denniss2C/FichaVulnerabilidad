@@ -2,28 +2,34 @@ import 'package:fichavulnerabilidad/screens/home.dart';
 import 'package:fichavulnerabilidad/screens/infoMIES.dart';
 import 'package:fichavulnerabilidad/screens/lista_encuestas.dart';
 import 'package:fichavulnerabilidad/screens/new_encuesta.dart';
+import 'package:fichavulnerabilidad/utils/provider/userProvider.dart';
+import 'package:fichavulnerabilidad/utils/services/login/login_dialog.dart';
 import 'package:fichavulnerabilidad/utils/ui/color.dart';
 import 'package:fichavulnerabilidad/utils/ui/drawables.dart';
-import 'package:fichavulnerabilidad/widgets/login_dialog.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:provider/provider.dart';
 
 class CustomDrawer extends StatelessWidget {
   const CustomDrawer({super.key});
 
   @override
   Widget build(BuildContext context) {
+    final userProvider = Provider.of<UserProvider>(context);
+
     return Drawer(
       child: ListView(
         children: [
           UserAccountsDrawerHeader(
-            accountName: const Text('Bienvenido'),
-            accountEmail: const Text('  dsfdsf@sad.com '),
+            accountName: Text(userProvider.userName ?? 'Sin iniciar sesión'),
+            accountEmail: Text(userProvider.userEmail ?? '-----'),
             currentAccountPicture: CircleAvatar(
-                backgroundColor: TrackingColors.blanco,
-                child: Image.asset(
-                  TrackingDrawables.getUsuario(),
-                )),
+              backgroundColor: TrackingColors.blanco,
+              child: Image.asset(
+                TrackingDrawables
+                    .getUsuario(), // Reemplaza con la ruta correcta
+              ),
+            ),
             decoration: BoxDecoration(
               color: TrackingColors.lightGrey, // Fondo gris
             ),
@@ -79,20 +85,35 @@ class CustomDrawer extends StatelessWidget {
           const Divider(),
           ListTile(
             leading: SvgPicture.asset(
-              TrackingDrawables.getSVGLogin(),
+              userProvider.userName != null
+                  ? TrackingDrawables.getSVGLogout()
+                  : TrackingDrawables.getSVGLogin(),
               width: 40,
               height: 40,
             ),
-            title: const Text('Iniciar Sesión'),
-            subtitle: const Text('Iniciar sesión en la aplicación'),
+            title: Text(userProvider.userName != null
+                ? 'Cerrar Sesión'
+                : 'Iniciar Sesión'),
+            subtitle: Text(userProvider.userName != null
+                ? 'Cerrar sesión de la aplicación'
+                : 'Iniciar sesión en la aplicación'),
             onTap: () {
-              Navigator.pushNamed(context, HomeScreen.routeName);
-              showLoginDialog(context).then((value) {
-                if (value != null) {
-                  // Aquí puedes manejar los datos devueltos
-                  print('Datos devueltos: $value');
-                }
-              });
+              if (userProvider.userName != null) {
+                // Si el usuario está logueado, cerrar sesión
+                userProvider.logout();
+                Navigator.pushNamed(context, HomeScreen.routeName);
+                ScaffoldMessenger.of(context).showSnackBar(
+                  const SnackBar(
+                    content: Text('Sesión cerrada'),
+                  ),
+                );
+              } else {
+                // Si el usuario no está logueado, abrir el diálogo de inicio de sesión
+                Navigator.pushNamed(context, HomeScreen.routeName);
+                showLoginDialog(context).then((value) {
+                  if (value != null) {}
+                });
+              }
             },
           ),
         ],
