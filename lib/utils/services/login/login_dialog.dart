@@ -1,6 +1,7 @@
-import 'package:fichavulnerabilidad/screens/home.dart';
-import 'package:fichavulnerabilidad/utils/services/login/login_service.dart';
+import 'package:fichavulnerabilidad/utils/provider/passProvider.dart';
+import 'package:fichavulnerabilidad/utils/provider/userProvider.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
 Future<Map<String, String>?> showLoginDialog(BuildContext context) async {
   TextEditingController usernameController = TextEditingController();
@@ -9,6 +10,9 @@ Future<Map<String, String>?> showLoginDialog(BuildContext context) async {
   return await showDialog<Map<String, String>>(
     context: context,
     builder: (BuildContext context) {
+      final userProvider = Provider.of<UserProvider>(context, listen: false);
+      final passwordVisibilityProvider =
+          Provider.of<PasswordVisibilityProvider>(context);
       return AlertDialog(
         title: const Text('Iniciar Sesión'),
         content: Column(
@@ -20,9 +24,20 @@ Future<Map<String, String>?> showLoginDialog(BuildContext context) async {
             ),
             TextField(
               controller: passwordController,
-              decoration:
-                  const InputDecoration(labelText: 'Contraseña (Cédula)'),
-              obscureText: true,
+              decoration: InputDecoration(
+                labelText: 'Contraseña (Cédula)',
+                suffixIcon: IconButton(
+                  icon: Icon(
+                    passwordVisibilityProvider.isPasswordVisible
+                        ? Icons.visibility
+                        : Icons.visibility_off,
+                  ),
+                  onPressed: () {
+                    passwordVisibilityProvider.togglePasswordVisibility();
+                  },
+                ),
+              ),
+              obscureText: !passwordVisibilityProvider.isPasswordVisible,
             ),
           ],
         ),
@@ -38,20 +53,25 @@ Future<Map<String, String>?> showLoginDialog(BuildContext context) async {
               String username = usernameController.text;
               String password = passwordController.text;
               if (username.isNotEmpty && password.isNotEmpty) {
-                final result = await loginUser(username, password);
-
-                if (result['status'] == 'success') {
+                try {
+                  await userProvider.login(context, username,
+                      password); // Llama al método login del UserProvider
+                  Navigator.of(context).pop(); // Cierra el diálogo
+                  if (userProvider.userName != null) {
+                    ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+                      content: Text('Bienvenido, ${userProvider.userName}'),
+                    ));
+                  } else {
+                    ScaffoldMessenger.of(context).showSnackBar(
+                      const SnackBar(
+                        content: Text('Usuario o contraseña incorrectos'),
+                      ),
+                    );
+                  }
+                } catch (e) {
                   ScaffoldMessenger.of(context).showSnackBar(
                     SnackBar(
-                      content: Text('Bienvenido, ${result['nombreuser']}'),
-                    ),
-                  );
-                  Navigator.pushNamed(context, HomeScreen.routeName);
-                } else {
-                  print('Error en el login: ${result['message']}');
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    SnackBar(
-                      content: Text('Error: ${result['message']}'),
+                      content: Text('Error: $e'),
                     ),
                   );
                 }
@@ -62,7 +82,7 @@ Future<Map<String, String>?> showLoginDialog(BuildContext context) async {
                   ),
                 );
               } else {
-                Navigator.pushNamed(context, HomeScreen.routeName);
+                Navigator.of(context).pop();
                 ScaffoldMessenger.of(context).showSnackBar(
                   const SnackBar(
                     content: Text('Por favor, ingrese usuario y contraseña'),

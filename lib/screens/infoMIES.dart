@@ -35,7 +35,9 @@ class _MiesState extends State<Mies> {
             Container(
               decoration: BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage(TrackingDrawables.getFondoMies()),
+                  image: Theme.of(context).brightness == Brightness.light
+                      ? AssetImage(TrackingDrawables.getFondoMies())
+                      : AssetImage(TrackingDrawables.getFondoMiesDark()),
                   fit: BoxFit.cover,
                 ),
               ),
