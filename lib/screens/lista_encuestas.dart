@@ -1,3 +1,5 @@
+import 'package:fichavulnerabilidad/utils/ui/ui.dart';
+import 'package:fichavulnerabilidad/widgets/drawer.dart';
 import 'package:flutter/material.dart';
 
 class EncuestaRegistrada extends StatefulWidget {
@@ -15,28 +17,22 @@ class _EncuestaRegistradaState extends State<EncuestaRegistrada> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Encuesta Registrada'),
+        title: Text(
+          'Encuestas Registradas',
+          style: TextStyle(
+            color: TrackingColors.blanco,
+          ),
+        ),
+        backgroundColor: TrackingColors.negro,
+        iconTheme: IconThemeData(
+          color: TrackingColors.blanco,
+        ),
+        centerTitle: true,
       ),
+      //Manejador de pestañas
+      drawer: const CustomDrawer(),
       body: Column(
         children: [
-          Container(
-            height: 80,
-            color: Colors.blue,
-            //texto
-            child: const Center(
-              child: Text(
-                "Encuesta Registrada",
-                textAlign: TextAlign.center,
-                style: TextStyle(
-                  fontSize: 24,
-                  color: Colors.white,
-                ),
-              ),
-            ),
-          ),
-          const SizedBox(
-            height: 10,
-          ),
           Container(
             height: 50,
             width: 150,

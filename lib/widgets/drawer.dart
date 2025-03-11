@@ -17,6 +17,26 @@ class CustomDrawer extends StatelessWidget {
   Widget build(BuildContext context) {
     final userProvider = Provider.of<UserProvider>(context);
 
+    String getInitials(String? userName) {
+      if (userName == null || userName.isEmpty) {
+        return ''; // Devuelve una cadena vacía si no hay nombre
+      }
+
+      // Divide el nombre en partes (por ejemplo, "Nancy Zoraya" -> ["Nancy", "Zoraya"])
+      List<String> nameParts = userName.split(' ');
+
+      // Obtiene la primera letra de cada parte
+      String initials = '';
+      for (var part in nameParts) {
+        if (part.isNotEmpty) {
+          initials += part[0].toUpperCase(); // Convierte a mayúscula
+        }
+      }
+
+      // Devuelve las iniciales (máximo 2 caracteres)
+      return initials.length > 2 ? initials.substring(0, 2) : initials;
+    }
+
     return Drawer(
       child: ListView(
         children: [
@@ -25,10 +45,20 @@ class CustomDrawer extends StatelessWidget {
             accountEmail: Text(userProvider.userEmail ?? '-----'),
             currentAccountPicture: CircleAvatar(
               backgroundColor: TrackingColors.blanco,
-              child: Image.asset(
-                TrackingDrawables
-                    .getUsuario(), // Reemplaza con la ruta correcta
-              ),
+              child: userProvider.userName != null
+                  ? Text(
+                      getInitials(
+                          userProvider.userName), // Iniciales si está logueado
+                      style: TextStyle(
+                        color: TrackingColors.negro, // Color del texto
+                        fontSize: 24, // Tamaño del texto
+                        fontWeight: FontWeight.bold, // Negrita
+                      ),
+                    )
+                  : Image.asset(
+                      TrackingDrawables
+                          .getUsuario(), // Imagen predeterminada si no está logueado
+                    ),
             ),
             decoration: BoxDecoration(
               color: TrackingColors.lightGrey, // Fondo gris
