@@ -1,0 +1,7023 @@
+[
+  {
+    "id": 1089,
+    "tipo": "Intruccion",
+    "descripcion": "Ninguno",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1090,
+    "tipo": "Intruccion",
+    "descripcion": "Centro de alfabetización",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1091,
+    "tipo": "Intruccion",
+    "descripcion": "Jardín de Infantes",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1092,
+    "tipo": "Intruccion",
+    "descripcion": "Primaria",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1093,
+    "tipo": "Intruccion",
+    "descripcion": "Educación Básica",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1094,
+    "tipo": "Intruccion",
+    "descripcion": "Secundaria",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1095,
+    "tipo": "Intruccion",
+    "descripcion": "Bachillerato",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1096,
+    "tipo": "Intruccion",
+    "descripcion": "Superior No Universitario",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 1097,
+    "tipo": "Intruccion",
+    "descripcion": "Superior Universitario",
+    "codigo_catalogo": "9",
+    "estado": "ACT"
+  },
+  {
+    "id": 1098,
+    "tipo": "Intruccion",
+    "descripcion": "Post-Grado",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1099,
+    "tipo": "Grado_Primaria",
+    "descripcion": "1er Grado",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1100,
+    "tipo": "Grado_Primaria",
+    "descripcion": "2do Grado",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1101,
+    "tipo": "Grado_Primaria",
+    "descripcion": "3er Grado",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1102,
+    "tipo": "Grado_Primaria",
+    "descripcion": "4to Grado",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1103,
+    "tipo": "Grado_Primaria",
+    "descripcion": "5to Grado",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1104,
+    "tipo": "Grado_Primaria",
+    "descripcion": "6to Grado",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1105,
+    "tipo": "Grado_Basica",
+    "descripcion": "Grado Educación Básica 1",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1106,
+    "tipo": "Grado_Basica",
+    "descripcion": "Grado Educación Básica 2",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1107,
+    "tipo": "Grado_Basica",
+    "descripcion": "Grado Educación Básica 3",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1108,
+    "tipo": "Grado_Basica",
+    "descripcion": "Grado Educación Básica 4",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1109,
+    "tipo": "Grado_Basica",
+    "descripcion": "Grado Educación Básica 5",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1110,
+    "tipo": "Grado_Basica",
+    "descripcion": "Grado Educación Básica 6",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1111,
+    "tipo": "Grado_Basica",
+    "descripcion": "Grado Educación Básica 7",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1112,
+    "tipo": "Grado_Basica",
+    "descripcion": "Grado Educación Básica 8",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 1113,
+    "tipo": "Grado_Basica",
+    "descripcion": "Grado Educación Básica 9",
+    "codigo_catalogo": "9",
+    "estado": "ACT"
+  },
+  {
+    "id": 1114,
+    "tipo": "Grado_Basica",
+    "descripcion": "Grado Educación Básica 10",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1115,
+    "tipo": "Grado_Bachillerato",
+    "descripcion": "Grado Bachillerato 1",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1116,
+    "tipo": "Grado_Bachillerato",
+    "descripcion": "Grado Bachillerato 2",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1117,
+    "tipo": "Grado_Bachillerato",
+    "descripcion": "Grado Bachillerato 3",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1118,
+    "tipo": "Grado_NoUniver",
+    "descripcion": "Grado No Universitario 1",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1119,
+    "tipo": "Grado_NoUniver",
+    "descripcion": "Grado No Universitario 2",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1120,
+    "tipo": "Grado_NoUniver",
+    "descripcion": "Grado No Universitario 3",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1121,
+    "tipo": "Grado_NoUniver",
+    "descripcion": "Grado No Universitario 4",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1122,
+    "tipo": "Grado_NoUniver",
+    "descripcion": "Grado No Universitario 5",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1123,
+    "tipo": "Grado_NoUniver",
+    "descripcion": "Grado No Universitario 6",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1124,
+    "tipo": "Grado_NoUniver",
+    "descripcion": "Grado No Universitario 7",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1125,
+    "tipo": "Grado_NoUniver",
+    "descripcion": "Grado No Universitario 8",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 1126,
+    "tipo": "Grado_NoUniver",
+    "descripcion": "Grado No Universitario 9",
+    "codigo_catalogo": "9",
+    "estado": "ACT"
+  },
+  {
+    "id": 1127,
+    "tipo": "Grado_NoUniver",
+    "descripcion": "Grado No Universitario 10",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1128,
+    "tipo": "Grado_NoUniver",
+    "descripcion": "Grado No Universitario 11",
+    "codigo_catalogo": "11",
+    "estado": "ACT"
+  },
+  {
+    "id": 1129,
+    "tipo": "Grado_NoUniver",
+    "descripcion": "Grado No Universitario 12",
+    "codigo_catalogo": "12",
+    "estado": "ACT"
+  },
+  {
+    "id": 1130,
+    "tipo": "Grado_NoUniver",
+    "descripcion": "Grado No Universitario 13",
+    "codigo_catalogo": "13",
+    "estado": "ACT"
+  },
+  {
+    "id": 1131,
+    "tipo": "Grado_NoUniver",
+    "descripcion": "Grado No Universitario 14",
+    "codigo_catalogo": "14",
+    "estado": "ACT"
+  },
+  {
+    "id": 1132,
+    "tipo": "Grado_Universitario",
+    "descripcion": "Grado Universitario 1",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1133,
+    "tipo": "Grado_Universitario",
+    "descripcion": "Grado Universitario 2",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1134,
+    "tipo": "Grado_Universitario",
+    "descripcion": "Grado Universitario 3",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1135,
+    "tipo": "Grado_Universitario",
+    "descripcion": "Grado Universitario 4",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1136,
+    "tipo": "Grado_Universitario",
+    "descripcion": "Grado Universitario 5",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1137,
+    "tipo": "Grado_Universitario",
+    "descripcion": "Grado Universitario 6",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1138,
+    "tipo": "Grado_Universitario",
+    "descripcion": "Grado Universitario 7",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1139,
+    "tipo": "Grado_Universitario",
+    "descripcion": "Grado Universitario 8",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 1140,
+    "tipo": "Grado_Universitario",
+    "descripcion": "Grado Universitario 9",
+    "codigo_catalogo": "9",
+    "estado": "ACT"
+  },
+  {
+    "id": 1141,
+    "tipo": "Grado_Universitario",
+    "descripcion": "Grado Universitario 10",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1142,
+    "tipo": "Grado_Universitario",
+    "descripcion": "Grado Universitario 11",
+    "codigo_catalogo": "11",
+    "estado": "ACT"
+  },
+  {
+    "id": 1143,
+    "tipo": "Grado_Universitario",
+    "descripcion": "Grado Universitario 12",
+    "codigo_catalogo": "12",
+    "estado": "ACT"
+  },
+  {
+    "id": 1144,
+    "tipo": "Grado_Universitario",
+    "descripcion": "Grado Universitario 13",
+    "codigo_catalogo": "13",
+    "estado": "ACT"
+  },
+  {
+    "id": 1145,
+    "tipo": "Grado_Universitario",
+    "descripcion": "Grado Universitario 14",
+    "codigo_catalogo": "14",
+    "estado": "ACT"
+  },
+  {
+    "id": 1146,
+    "tipo": "Profesion",
+    "descripcion": "Administrador de empresas",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1147,
+    "tipo": "Profesion",
+    "descripcion": "Auxiliar de enfermería",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1148,
+    "tipo": "Profesion",
+    "descripcion": "Bachiller",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1149,
+    "tipo": "Profesion",
+    "descripcion": "Educador ",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1150,
+    "tipo": "Profesion",
+    "descripcion": "Ingeniero Comercial",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1151,
+    "tipo": "Profesion",
+    "descripcion": "Psicólogo",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1152,
+    "tipo": "Profesion",
+    "descripcion": "Sociólogo",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1153,
+    "tipo": "Profesion",
+    "descripcion": "Terapista Físico",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 1154,
+    "tipo": "Profesion",
+    "descripcion": "Terapista Ocupacional",
+    "codigo_catalogo": "9",
+    "estado": "ACT"
+  },
+  {
+    "id": 1155,
+    "tipo": "Profesion",
+    "descripcion": "Trabajador Social",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1156,
+    "tipo": "Profesion",
+    "descripcion": "Otra",
+    "codigo_catalogo": "11",
+    "estado": "ACT"
+  },
+  {
+    "id": 1157,
+    "tipo": "RespEncuesta",
+    "descripcion": "Persona Adulta Mayor",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1158,
+    "tipo": "RespEncuesta",
+    "descripcion": "Familiar",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1159,
+    "tipo": "RespEncuesta",
+    "descripcion": "Otro",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1160,
+    "tipo": "ModalidadD",
+    "descripcion": "Centro Gerontológico Diurno",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1161,
+    "tipo": "ModalidadD",
+    "descripcion": "Espacios activos de socialización y encuentro",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1162,
+    "tipo": "ModalidadD",
+    "descripcion": "Atención Domiciliaria",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1163,
+    "tipo": "ModalidadD",
+    "descripcion": "Ninguna",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1164,
+    "tipo": "ServicioD",
+    "descripcion": "MIES",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1165,
+    "tipo": "ServicioD",
+    "descripcion": "GAD (Provincial, Municipio, Parroquias)",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1166,
+    "tipo": "ServicioD",
+    "descripcion": "Iglesia o templo",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1167,
+    "tipo": "ServicioD",
+    "descripcion": "Fundación / ONG",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1168,
+    "tipo": "ServicioD",
+    "descripcion": "Centro privado",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1169,
+    "tipo": "ServicioD",
+    "descripcion": "Otro",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1170,
+    "tipo": "TipoDocumento",
+    "descripcion": "Cédula",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1171,
+    "tipo": "TipoDocumento",
+    "descripcion": "Pasaporte",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1172,
+    "tipo": "TipoDocumento",
+    "descripcion": "Carnet de Refugiado",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 2172,
+    "tipo": "TipoDocumento",
+    "descripcion": "No tiene",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1173,
+    "tipo": "Sexo",
+    "descripcion": "Hombre",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1174,
+    "tipo": "Sexo",
+    "descripcion": "Mujer",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2274,
+    "tipo": "Sexo",
+    "descripcion": "Intersexual",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1175,
+    "tipo": "EstadoCivil",
+    "descripcion": "Soltero/a",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1176,
+    "tipo": "EstadoCivil",
+    "descripcion": "Casado/a",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1177,
+    "tipo": "EstadoCivil",
+    "descripcion": "Separado/a",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1178,
+    "tipo": "EstadoCivil",
+    "descripcion": "Divorciado/a",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1179,
+    "tipo": "EstadoCivil",
+    "descripcion": "Viudo/a",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1180,
+    "tipo": "EstadoCivil",
+    "descripcion": "Unión libre/unión de hecho",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1181,
+    "tipo": "Etnia",
+    "descripcion": "Mestizo (a)",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1182,
+    "tipo": "Etnia",
+    "descripcion": "Indígena",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1183,
+    "tipo": "Etnia",
+    "descripcion": "Afrodescendiente",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1184,
+    "tipo": "Etnia",
+    "descripcion": "Montubio (a)",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1185,
+    "tipo": "Etnia",
+    "descripcion": "Blanco (a)",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1186,
+    "tipo": "Etnia",
+    "descripcion": "Otro",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1187,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Awá",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1188,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Chachi",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1189,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Épera",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1190,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Tsachila",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1191,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Karanki",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1192,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Natabuela",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1193,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Otavalo",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1194,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Kayambi ",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 1195,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Kitukara",
+    "codigo_catalogo": "9",
+    "estado": "ACT"
+  },
+  {
+    "id": 1196,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Panzaleo",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1197,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Chibuleo",
+    "codigo_catalogo": "11",
+    "estado": "ACT"
+  },
+  {
+    "id": 1198,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Salasaka",
+    "codigo_catalogo": "12",
+    "estado": "ACT"
+  },
+  {
+    "id": 1199,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Kisapincha ",
+    "codigo_catalogo": "13",
+    "estado": "ACT"
+  },
+  {
+    "id": 1200,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Pueblo Manta",
+    "codigo_catalogo": "14",
+    "estado": "ACT"
+  },
+  {
+    "id": 1201,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Waranca",
+    "codigo_catalogo": "15",
+    "estado": "ACT"
+  },
+  {
+    "id": 1202,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Pueblo Huancavilca ",
+    "codigo_catalogo": "16",
+    "estado": "ACT"
+  },
+  {
+    "id": 1203,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Puruhá",
+    "codigo_catalogo": "17",
+    "estado": "ACT"
+  },
+  {
+    "id": 1204,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Kañari",
+    "codigo_catalogo": "18",
+    "estado": "ACT"
+  },
+  {
+    "id": 1205,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Saraguro",
+    "codigo_catalogo": "19",
+    "estado": "ACT"
+  },
+  {
+    "id": 1206,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Cofán",
+    "codigo_catalogo": "20",
+    "estado": "ACT"
+  },
+  {
+    "id": 1207,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Secoya",
+    "codigo_catalogo": "21",
+    "estado": "ACT"
+  },
+  {
+    "id": 1208,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Siona",
+    "codigo_catalogo": "22",
+    "estado": "ACT"
+  },
+  {
+    "id": 1209,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Waorani",
+    "codigo_catalogo": "23",
+    "estado": "ACT"
+  },
+  {
+    "id": 1210,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Shiwiar",
+    "codigo_catalogo": "24",
+    "estado": "ACT"
+  },
+  {
+    "id": 1211,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Zápara",
+    "codigo_catalogo": "25",
+    "estado": "ACT"
+  },
+  {
+    "id": 1212,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Achuar",
+    "codigo_catalogo": "26",
+    "estado": "ACT"
+  },
+  {
+    "id": 1213,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Shuar",
+    "codigo_catalogo": "27",
+    "estado": "ACT"
+  },
+  {
+    "id": 1214,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Pastos",
+    "codigo_catalogo": "28",
+    "estado": "ACT"
+  },
+  {
+    "id": 1215,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Tomabela",
+    "codigo_catalogo": "29",
+    "estado": "ACT"
+  },
+  {
+    "id": 1216,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Paltas",
+    "codigo_catalogo": "30",
+    "estado": "ACT"
+  },
+  {
+    "id": 1217,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Andoa",
+    "codigo_catalogo": "31",
+    "estado": "ACT"
+  },
+  {
+    "id": 1218,
+    "tipo": "EtniaIndigena",
+    "descripcion": "Kichwa Amazónico ",
+    "codigo_catalogo": "32",
+    "estado": "ACT"
+  },
+  {
+    "id": 1219,
+    "tipo": "Idioma",
+    "descripcion": "Castellano / Español",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1220,
+    "tipo": "Idioma",
+    "descripcion": "Lengua Nativa ",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1221,
+    "tipo": "Idioma",
+    "descripcion": "Lengua Extranjera ",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1222,
+    "tipo": "Idioma",
+    "descripcion": "Lengua de señas",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1223,
+    "tipo": "Idioma",
+    "descripcion": "Comunicación escrita",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1224,
+    "tipo": "Idioma",
+    "descripcion": "Ninguno",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1225,
+    "tipo": "LenguaNativa",
+    "descripcion": "Awapit",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1226,
+    "tipo": "LenguaNativa",
+    "descripcion": "Cha'palaa",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1227,
+    "tipo": "LenguaNativa",
+    "descripcion": "Siapedee",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1228,
+    "tipo": "LenguaNativa",
+    "descripcion": "Tsa’fiki",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1229,
+    "tipo": "LenguaNativa",
+    "descripcion": "A´ingae",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1230,
+    "tipo": "LenguaNativa",
+    "descripcion": "Baaicoca",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1231,
+    "tipo": "LenguaNativa",
+    "descripcion": "Paicoca",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1232,
+    "tipo": "LenguaNativa",
+    "descripcion": "Waotededo",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 1233,
+    "tipo": "LenguaNativa",
+    "descripcion": "Shiwiar Chicham",
+    "codigo_catalogo": "9",
+    "estado": "ACT"
+  },
+  {
+    "id": 1234,
+    "tipo": "LenguaNativa",
+    "descripcion": "Zapara",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1235,
+    "tipo": "LenguaNativa",
+    "descripcion": "Achuar Chicham",
+    "codigo_catalogo": "11",
+    "estado": "ACT"
+  },
+  {
+    "id": 1236,
+    "tipo": "LenguaNativa",
+    "descripcion": "Andoa",
+    "codigo_catalogo": "12",
+    "estado": "ACT"
+  },
+  {
+    "id": 1237,
+    "tipo": "LenguaNativa",
+    "descripcion": "kichwa",
+    "codigo_catalogo": "13",
+    "estado": "ACT"
+  },
+  {
+    "id": 1238,
+    "tipo": "LenguaNativa",
+    "descripcion": "Shuar Chicham",
+    "codigo_catalogo": "14",
+    "estado": "ACT"
+  },
+  {
+    "id": 1239,
+    "tipo": "RegistroSocial",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1240,
+    "tipo": "RegistroSocial",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1241,
+    "tipo": "Nacionalidad",
+    "descripcion": "Ecuatoriana",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1242,
+    "tipo": "Nacionalidad",
+    "descripcion": "Extranjero",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1243,
+    "tipo": "ViveSolo",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1244,
+    "tipo": "ViveSolo",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1245,
+    "tipo": "AccesoVivienda",
+    "descripcion": "Carretera/calle pavimentada, adoquinada o concreto ",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1246,
+    "tipo": "AccesoVivienda",
+    "descripcion": "Empedrado",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1247,
+    "tipo": "AccesoVivienda",
+    "descripcion": "Lastrado/calle de tierra",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1248,
+    "tipo": "AccesoVivienda",
+    "descripcion": "Sendero/camino/chaquiñán",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1249,
+    "tipo": "AccesoVivienda",
+    "descripcion": "Río/mar/lago",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1250,
+    "tipo": "TipoVivienda",
+    "descripcion": "Casa/Villa",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1251,
+    "tipo": "TipoVivienda",
+    "descripcion": "Departamento en casa o edificio",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1252,
+    "tipo": "TipoVivienda",
+    "descripcion": "Cuartos (Casa inquilino)",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1253,
+    "tipo": "TipoVivienda",
+    "descripcion": "Mediagua",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1254,
+    "tipo": "TipoVivienda",
+    "descripcion": "Covacha/rancho",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1255,
+    "tipo": "TipoVivienda",
+    "descripcion": "Choza",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1256,
+    "tipo": "TipoVivienda",
+    "descripcion": "Cueva ",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1257,
+    "tipo": "TipoVivienda",
+    "descripcion": "Otro",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 1258,
+    "tipo": "MaterialTecho",
+    "descripcion": "Hormigón/ losa/ cemento",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1259,
+    "tipo": "MaterialTecho",
+    "descripcion": "Asbesto (Eternit)",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1260,
+    "tipo": "MaterialTecho",
+    "descripcion": "Zinc",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1261,
+    "tipo": "MaterialTecho",
+    "descripcion": "Teja",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1262,
+    "tipo": "MaterialTecho",
+    "descripcion": "Palma/ paja/ hoja",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1263,
+    "tipo": "MaterialTecho",
+    "descripcion": "Otro",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1264,
+    "tipo": "EstadoTecho",
+    "descripcion": "Bueno",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1265,
+    "tipo": "EstadoTecho",
+    "descripcion": "Regular",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1266,
+    "tipo": "EstadoTecho",
+    "descripcion": "Malo",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1267,
+    "tipo": "MaterialPiso",
+    "descripcion": "Duela/ parquet/ tabloncillo/ tablón tratado/ piso flotante",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1268,
+    "tipo": "MaterialPiso",
+    "descripcion": "Cerámica/ baldosa/ vinyl",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1269,
+    "tipo": "MaterialPiso",
+    "descripcion": "Mármol/ marmetón",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1270,
+    "tipo": "MaterialPiso",
+    "descripcion": "Cemento/ ladrillo",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1271,
+    "tipo": "MaterialPiso",
+    "descripcion": "Tabla/ tablón no tratado",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1272,
+    "tipo": "MaterialPiso",
+    "descripcion": "Caña",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1273,
+    "tipo": "MaterialPiso",
+    "descripcion": "Tierra",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1274,
+    "tipo": "MaterialPiso",
+    "descripcion": "Otro",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 1275,
+    "tipo": "EstadoPiso",
+    "descripcion": "Bueno",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1276,
+    "tipo": "EstadoPiso",
+    "descripcion": "Regular",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1277,
+    "tipo": "EstadoPiso",
+    "descripcion": "Malo",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1278,
+    "tipo": "MaterialParedes",
+    "descripcion": "Hormigón/bloque/ladrillo",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1279,
+    "tipo": "MaterialParedes",
+    "descripcion": "Asbesto/cemento",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1280,
+    "tipo": "MaterialParedes",
+    "descripcion": "Adobe/tapia",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1281,
+    "tipo": "MaterialParedes",
+    "descripcion": "Madera",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1282,
+    "tipo": "MaterialParedes",
+    "descripcion": "Bahareque (caña, carrizo revestido)",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1283,
+    "tipo": "MaterialParedes",
+    "descripcion": "Caña o estera",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1284,
+    "tipo": "MaterialParedes",
+    "descripcion": "Otra",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1285,
+    "tipo": "EstadoParedes",
+    "descripcion": "Bueno",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1286,
+    "tipo": "EstadoParedes",
+    "descripcion": "Regular",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1287,
+    "tipo": "EstadoParedes",
+    "descripcion": "Malo",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1288,
+    "tipo": "MaterialCocina",
+    "descripcion": "Gas",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1289,
+    "tipo": "MaterialCocina",
+    "descripcion": "Leña, carbón",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1290,
+    "tipo": "MaterialCocina",
+    "descripcion": "Electricidad",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1291,
+    "tipo": "MaterialCocina",
+    "descripcion": "Otro",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1292,
+    "tipo": "CuartoAdulMayor",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1293,
+    "tipo": "CuartoAdulMayor",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1294,
+    "tipo": "ProvieneAgua",
+    "descripcion": "Red Pública",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1295,
+    "tipo": "ProvieneAgua",
+    "descripcion": "Pila/pileta/llave pública",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1296,
+    "tipo": "ProvieneAgua",
+    "descripcion": "Otra fuente por tubería",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1297,
+    "tipo": "ProvieneAgua",
+    "descripcion": "Carro repartidor/triciclo",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1298,
+    "tipo": "ProvieneAgua",
+    "descripcion": "Pozo",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1299,
+    "tipo": "ProvieneAgua",
+    "descripcion": "Río/vertiente o acequia ",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1300,
+    "tipo": "ProvieneAgua",
+    "descripcion": "Agua lluvia ",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1301,
+    "tipo": "ViveSolo",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1302,
+    "tipo": "ViveSolo",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1303,
+    "tipo": "ContactoFam",
+    "descripcion": "Hijos/as",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1304,
+    "tipo": "ContactoFam",
+    "descripcion": "Hermanos/as",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1305,
+    "tipo": "ContactoFam",
+    "descripcion": "Nietos",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1306,
+    "tipo": "ContactoFam",
+    "descripcion": "Otros familiares",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1307,
+    "tipo": "ContactoFam",
+    "descripcion": "Otros no familiares",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1308,
+    "tipo": "FrecuenciaHablaHijo",
+    "descripcion": "Diario",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1309,
+    "tipo": "FrecuenciaHablaHijo",
+    "descripcion": "Semanal",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1310,
+    "tipo": "FrecuenciaHablaHijo",
+    "descripcion": "Mensual",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1311,
+    "tipo": "FrecuenciaHablaHijo",
+    "descripcion": "Anual o menos de una vez al año",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1312,
+    "tipo": "FrecuenciaHablaHijo",
+    "descripcion": "Nunca",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1313,
+    "tipo": "ParentescoV",
+    "descripcion": "Solo",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1314,
+    "tipo": "ParentescoV",
+    "descripcion": "Cónyuge",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1315,
+    "tipo": "ParentescoV",
+    "descripcion": "Hijos/as",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1316,
+    "tipo": "ParentescoV",
+    "descripcion": "Hermanos/as",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1317,
+    "tipo": "ParentescoV",
+    "descripcion": "Nietos/as",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1318,
+    "tipo": "ParentescoV",
+    "descripcion": "Otros familiares",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1319,
+    "tipo": "ParentescoV",
+    "descripcion": "Otros no familiares",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1320,
+    "tipo": "Trabaja",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1321,
+    "tipo": "Trabaja",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1322,
+    "tipo": "Ocupacion",
+    "descripcion": "Empleado/Obrero Público",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1323,
+    "tipo": "Ocupacion",
+    "descripcion": "Empleado/Obrero Privado",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1324,
+    "tipo": "Ocupacion",
+    "descripcion": "Jornalero o Peón",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1325,
+    "tipo": "Ocupacion",
+    "descripcion": "Patrono",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1326,
+    "tipo": "Ocupacion",
+    "descripcion": "Cuenta propia",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1327,
+    "tipo": "Ocupacion",
+    "descripcion": "Trabajador no remunerado del hogar",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1328,
+    "tipo": "Ocupacion",
+    "descripcion": "Empleada (o) doméstica (o)",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1329,
+    "tipo": "Ocupacion",
+    "descripcion": "Mendigo",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 1330,
+    "tipo": "Ocupacion",
+    "descripcion": "Otro",
+    "codigo_catalogo": "9",
+    "estado": "ACT"
+  },
+  {
+    "id": 1331,
+    "tipo": "RazonTrabajo",
+    "descripcion": "Tengo necesidad del ingreso",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1332,
+    "tipo": "RazonTrabajo",
+    "descripcion": "Para ayudar a mi familia",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1333,
+    "tipo": "RazonTrabajo",
+    "descripcion": "Para mantenerme ocupado",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1334,
+    "tipo": "RazonTrabajo",
+    "descripcion": "Porque me gusta mi trabajo",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1335,
+    "tipo": "RazonTrabajo",
+    "descripcion": "Otra",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1336,
+    "tipo": "RecibePension",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1337,
+    "tipo": "RecibePension",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1338,
+    "tipo": "TipoPension",
+    "descripcion": "Bono de Desarrollo Humano ($50)",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1339,
+    "tipo": "TipoPension",
+    "descripcion": "Pensión Mis Mejores Años ($100)",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1340,
+    "tipo": "TipoPension",
+    "descripcion": "Pensión para personas adultas mayores ($50)",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1341,
+    "tipo": "TipoPension",
+    "descripcion": "Pensión para personas con discapacidad ($50)",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1342,
+    "tipo": "TipoPension",
+    "descripcion": "Bono de Discapacidad Joaquín Gallegos Lara ($240)",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1343,
+    "tipo": "CobraPension",
+    "descripcion": "Usted mismo",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1344,
+    "tipo": "CobraPension",
+    "descripcion": "Un familiar",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1345,
+    "tipo": "CobraPension",
+    "descripcion": "Un amigo",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1346,
+    "tipo": "CobraPension",
+    "descripcion": "Un vecino",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1347,
+    "tipo": "CobraPension",
+    "descripcion": "Un técnico del MIES",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1348,
+    "tipo": "CobraPension",
+    "descripcion": "Otro",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1349,
+    "tipo": "GastoPension",
+    "descripcion": "Gastos de salud",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1350,
+    "tipo": "GastoPension",
+    "descripcion": "Gastos de educación",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1351,
+    "tipo": "GastoPension",
+    "descripcion": "Servicios básicos",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1352,
+    "tipo": "GastoPension",
+    "descripcion": "Pago de deudas",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1353,
+    "tipo": "GastoPension",
+    "descripcion": "Alimentación",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1354,
+    "tipo": "GastoPension",
+    "descripcion": "Transporte",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1355,
+    "tipo": "GastoPension",
+    "descripcion": "Arriendo",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1356,
+    "tipo": "GastoPension",
+    "descripcion": "Equipamiento del hogar",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 1357,
+    "tipo": "GastoPension",
+    "descripcion": "Otros gastos personales",
+    "codigo_catalogo": "9",
+    "estado": "ACT"
+  },
+  {
+    "id": 1358,
+    "tipo": "RecibioSalario",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1359,
+    "tipo": "RecibioSalario",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1360,
+    "tipo": "RecibioSalario",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1361,
+    "tipo": "RecibioEspecies",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1362,
+    "tipo": "RecibioEspecies",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1363,
+    "tipo": "RecibioEspecies",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1364,
+    "tipo": "RecibioIntereses",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1365,
+    "tipo": "RecibioIntereses",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1366,
+    "tipo": "RecibioIntereses",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1367,
+    "tipo": "RecibioJubilacion",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1368,
+    "tipo": "RecibioJubilacion",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1369,
+    "tipo": "RecibioJubilacion",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1370,
+    "tipo": "OtroIngreso",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1371,
+    "tipo": "OtroIngreso",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1372,
+    "tipo": "OtroIngreso",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1373,
+    "tipo": "Electricidad",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1374,
+    "tipo": "Electricidad",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1375,
+    "tipo": "Electricidad",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1376,
+    "tipo": "Agua",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1377,
+    "tipo": "Agua",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1378,
+    "tipo": "Agua",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1379,
+    "tipo": "TelfConv",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1380,
+    "tipo": "TelfConv",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1381,
+    "tipo": "TelfConv",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1382,
+    "tipo": "Internet",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1383,
+    "tipo": "Internet",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1384,
+    "tipo": "Internet",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1385,
+    "tipo": "TvCable",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1386,
+    "tipo": "TvCable",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1387,
+    "tipo": "TvCable",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1388,
+    "tipo": "Celular",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1389,
+    "tipo": "Celular",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1390,
+    "tipo": "Celular",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1391,
+    "tipo": "Arriendo",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1392,
+    "tipo": "Arriendo",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1393,
+    "tipo": "Arriendo",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1394,
+    "tipo": "Alimentacion",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1395,
+    "tipo": "Alimentacion",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1396,
+    "tipo": "Alimentacion",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1397,
+    "tipo": "ProdHogar",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1398,
+    "tipo": "ProdHogar",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1399,
+    "tipo": "ProdHogar",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1400,
+    "tipo": "Vestimenta",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1401,
+    "tipo": "Vestimenta",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1402,
+    "tipo": "Vestimenta",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1403,
+    "tipo": "Medicamentos",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1404,
+    "tipo": "Medicamentos",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1405,
+    "tipo": "Medicamentos",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1406,
+    "tipo": "Examenes",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1407,
+    "tipo": "Examenes",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1408,
+    "tipo": "Examenes",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1409,
+    "tipo": "Hospitalizacion",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1410,
+    "tipo": "Hospitalizacion",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1411,
+    "tipo": "Hospitalizacion",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1412,
+    "tipo": "Paniales",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1413,
+    "tipo": "Paniales",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1414,
+    "tipo": "Paniales",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1415,
+    "tipo": "GastoTransporte",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1416,
+    "tipo": "GastoTransporte",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1417,
+    "tipo": "GastoTransporte",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1418,
+    "tipo": "EquiHogar",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1419,
+    "tipo": "EquiHogar",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1420,
+    "tipo": "EquiHogar",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1421,
+    "tipo": "PagoDeudas",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1422,
+    "tipo": "PagoDeudas",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1423,
+    "tipo": "PagoDeudas",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1424,
+    "tipo": "OtrosGastos",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1425,
+    "tipo": "OtrosGastos",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1426,
+    "tipo": "OtrosGastos",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1427,
+    "tipo": "TiempoLlegarServ",
+    "descripcion": "Menos de 30 minutos",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1428,
+    "tipo": "TiempoLlegarServ",
+    "descripcion": "De 30 a 60 minutos",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1429,
+    "tipo": "TiempoLlegarServ",
+    "descripcion": "Más de 60 minutos",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1430,
+    "tipo": "RequiereCuidados",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1431,
+    "tipo": "RequiereCuidados",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1432,
+    "tipo": "CuentaPersonaCuide",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1433,
+    "tipo": "CuentaPersonaCuide",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1434,
+    "tipo": "FrecuenciaAyuda",
+    "descripcion": "Diario",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1435,
+    "tipo": "FrecuenciaAyuda",
+    "descripcion": "Semanal",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1436,
+    "tipo": "FrecuenciaAyuda",
+    "descripcion": "Mensual",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1437,
+    "tipo": "FrecuenciaAyuda",
+    "descripcion": "Anual",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1438,
+    "tipo": "FrecuenciaAyuda",
+    "descripcion": "Menos de una vez por año",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1439,
+    "tipo": "Afiliacion",
+    "descripcion": "IESS, Seguro General",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1440,
+    "tipo": "Afiliacion",
+    "descripcion": "IESS, Seguro Voluntario",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1441,
+    "tipo": "Afiliacion",
+    "descripcion": "IESS, Seguro Campesino",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1442,
+    "tipo": "Afiliacion",
+    "descripcion": "Seguro ISSFA o ISSPOL",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1443,
+    "tipo": "Afiliacion",
+    "descripcion": "Seguro de Salud Privado",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1444,
+    "tipo": "Afiliacion",
+    "descripcion": "Seguro Comunitario",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1445,
+    "tipo": "Afiliacion",
+    "descripcion": "Ninguno",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1446,
+    "tipo": "Cuidador",
+    "descripcion": "Cónyuge",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1447,
+    "tipo": "Cuidador",
+    "descripcion": "Hijos/as",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1448,
+    "tipo": "Cuidador",
+    "descripcion": "Hermanos/as",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1449,
+    "tipo": "Cuidador",
+    "descripcion": "Nietos",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1450,
+    "tipo": "Cuidador",
+    "descripcion": "Otros familiares",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1451,
+    "tipo": "Cuidador",
+    "descripcion": "Personal de servicio doméstico",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1452,
+    "tipo": "Cuidador",
+    "descripcion": "Otros no familiares",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1453,
+    "tipo": "AyudaFamiliar",
+    "descripcion": "Dinero",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1454,
+    "tipo": "AyudaFamiliar",
+    "descripcion": "Comida",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1455,
+    "tipo": "AyudaFamiliar",
+    "descripcion": "Ropa",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1456,
+    "tipo": "AyudaFamiliar",
+    "descripcion": "Ayuda con quehaceres de hogar",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1457,
+    "tipo": "AyudaFamiliar",
+    "descripcion": "Ayuda con cuidado personal",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1458,
+    "tipo": "AyudaFamiliar",
+    "descripcion": "Transporte",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1459,
+    "tipo": "AyudaFamiliar",
+    "descripcion": "Entretenimiento",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1460,
+    "tipo": "AyudaFamiliar",
+    "descripcion": "Compañía",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 1461,
+    "tipo": "AyudaFamiliar",
+    "descripcion": "Otro",
+    "codigo_catalogo": "9",
+    "estado": "ACT"
+  },
+  {
+    "id": 1462,
+    "tipo": "AyudaFamiliar",
+    "descripcion": "Ninguna",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1463,
+    "tipo": "TresComidas",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1464,
+    "tipo": "TresComidas",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1465,
+    "tipo": "AtencionEnf",
+    "descripcion": "Médico",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1466,
+    "tipo": "AtencionEnf",
+    "descripcion": "Dentista",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1467,
+    "tipo": "AtencionEnf",
+    "descripcion": "Psicólogo",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1468,
+    "tipo": "AtencionEnf",
+    "descripcion": "Enfermera o auxiliar",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1469,
+    "tipo": "AtencionEnf",
+    "descripcion": "Curandero/hierbatero/ sobador",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1470,
+    "tipo": "AtencionEnf",
+    "descripcion": "Boticario/Farmacéutico",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1471,
+    "tipo": "AtencionEnf",
+    "descripcion": "Otro",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1472,
+    "tipo": "AsistMedicaLugar",
+    "descripcion": "Establecimiento de la red pública de salud (MSP/IESS/ISSFA/ISSPOL)",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1473,
+    "tipo": "AsistMedicaLugar",
+    "descripcion": "Establecimiento de salud privado",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1474,
+    "tipo": "TieneDiscapacidad",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1475,
+    "tipo": "TieneDiscapacidad",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1476,
+    "tipo": "TipoDiscapacidad",
+    "descripcion": "Auditiva",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1477,
+    "tipo": "TipoDiscapacidad",
+    "descripcion": "Física",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1478,
+    "tipo": "TipoDiscapacidad",
+    "descripcion": "Intelectual",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1479,
+    "tipo": "TipoDiscapacidad",
+    "descripcion": "Lenguaje",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1480,
+    "tipo": "TipoDiscapacidad",
+    "descripcion": "Psicosocial",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1481,
+    "tipo": "TipoDiscapacidad",
+    "descripcion": "Visual",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1482,
+    "tipo": "TieneCarnetDiscap",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1483,
+    "tipo": "TieneCarnetDiscap",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1484,
+    "tipo": "ReqAyudaTecnica",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1485,
+    "tipo": "ReqAyudaTecnica",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1486,
+    "tipo": "UtilAyudaTecnica",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1487,
+    "tipo": "UtilAyudaTecnica",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1488,
+    "tipo": "RecAtencionEnf",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1489,
+    "tipo": "RecAtencionEnf",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1490,
+    "tipo": "UtilAyudaTec",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1491,
+    "tipo": "UtilAyudaTec",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1492,
+    "tipo": "TipoAyudaTec",
+    "descripcion": "Andador",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1493,
+    "tipo": "TipoAyudaTec",
+    "descripcion": "Bastón o palo",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1494,
+    "tipo": "TipoAyudaTec",
+    "descripcion": "Muletas",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1495,
+    "tipo": "TipoAyudaTec",
+    "descripcion": "Silla de ruedas",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1496,
+    "tipo": "TipoAyudaTec",
+    "descripcion": "Audífonos",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1497,
+    "tipo": "TipoAyudaTec",
+    "descripcion": "Prótesis",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1498,
+    "tipo": "TipoAyudaTec",
+    "descripcion": "Otro",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1499,
+    "tipo": "Infarto",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1500,
+    "tipo": "Infarto",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1501,
+    "tipo": "InsufCardiaca",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1502,
+    "tipo": "InsufCardiaca",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1503,
+    "tipo": "EnferVascular",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1504,
+    "tipo": "EnferVascular",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1505,
+    "tipo": "EnferCerebroVascular",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1506,
+    "tipo": "EnferCerebroVascular",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1507,
+    "tipo": "Demencia",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1508,
+    "tipo": "Demencia",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1509,
+    "tipo": "EnferPulmonar",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1510,
+    "tipo": "EnferPulmonar",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1511,
+    "tipo": "PatolTejido",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1512,
+    "tipo": "PatolTejido",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1513,
+    "tipo": "EnferUlcerosa",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1514,
+    "tipo": "EnferUlcerosa",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1515,
+    "tipo": "PatolHepatLigera",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1516,
+    "tipo": "PatolHepatLigera",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1517,
+    "tipo": "Diabetes",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1518,
+    "tipo": "Diabetes",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1519,
+    "tipo": "Hemiplejia",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1520,
+    "tipo": "Hemiplejia",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1521,
+    "tipo": "PatoloRenal",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1522,
+    "tipo": "PatoloRenal",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1523,
+    "tipo": "Neoplasias",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1524,
+    "tipo": "Neoplasias",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1525,
+    "tipo": "Leucemias",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1526,
+    "tipo": "Leucemias",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1527,
+    "tipo": "LinfomasMalignos",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1528,
+    "tipo": "LinfomasMalignos",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1529,
+    "tipo": "MetastasisSolida",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1530,
+    "tipo": "MetastasisSolida",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1531,
+    "tipo": "Sida",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1532,
+    "tipo": "Sida",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1533,
+    "tipo": "PatolHeModGrave",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1534,
+    "tipo": "PatolHeModGrave",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1535,
+    "tipo": "PerdidaApetito",
+    "descripcion": "ha comido mucho menos",
+    "codigo_catalogo": "0",
+    "estado": "ACT"
+  },
+  {
+    "id": 1536,
+    "tipo": "PerdidaApetito",
+    "descripcion": "ha comido menos",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1537,
+    "tipo": "PerdidaApetito",
+    "descripcion": "ha comido igual",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1538,
+    "tipo": "PerdidaPeso",
+    "descripcion": "perdida de peso > 3 kg",
+    "codigo_catalogo": "0",
+    "estado": "ACT"
+  },
+  {
+    "id": 1539,
+    "tipo": "PerdidaPeso",
+    "descripcion": "no lo sabe",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1540,
+    "tipo": "PerdidaPeso",
+    "descripcion": "perdida de peso entre 1 y 3 kg",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1541,
+    "tipo": "PerdidaPeso",
+    "descripcion": "no ha habido perdida de peso",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1542,
+    "tipo": "Movilidad",
+    "descripcion": "de la cama al sillon",
+    "codigo_catalogo": "0",
+    "estado": "ACT"
+  },
+  {
+    "id": 1543,
+    "tipo": "Movilidad",
+    "descripcion": "autonomi\u00ADa en el interior",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1544,
+    "tipo": "Movilidad",
+    "descripcion": "sale del domicilio",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1545,
+    "tipo": "EnfermedadAguda",
+    "descripcion": "Si",
+    "codigo_catalogo": "0",
+    "estado": "ACT"
+  },
+  {
+    "id": 1546,
+    "tipo": "EnfermedadAguda",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1547,
+    "tipo": "ProblemaNeuropsicologico",
+    "descripcion": "demencia o depresion grave",
+    "codigo_catalogo": "0",
+    "estado": "ACT"
+  },
+  {
+    "id": 1548,
+    "tipo": "ProblemaNeuropsicologico",
+    "descripcion": "demencia moderada",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1549,
+    "tipo": "ProblemaNeuropsicologico",
+    "descripcion": "sin problemas psicologicos",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1550,
+    "tipo": "DanioCasa",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1551,
+    "tipo": "DanioCasa",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1552,
+    "tipo": "TocadoSin Consentimiento",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1553,
+    "tipo": "TocadoSin Consentimiento",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1554,
+    "tipo": "ObligadoCosas",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1555,
+    "tipo": "ObligadoCosas",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1556,
+    "tipo": "CogidoCosas",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1557,
+    "tipo": "CogidoCosas",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1558,
+    "tipo": "Amenazado",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1559,
+    "tipo": "Amenazado",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1560,
+    "tipo": "FirmadoDocumentos",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1561,
+    "tipo": "FirmadoDocumentos",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1562,
+    "tipo": "MiedoCasa",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1563,
+    "tipo": "MiedoCasa",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1564,
+    "tipo": "PasaSolo",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1565,
+    "tipo": "PasaSolo",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1566,
+    "tipo": "AyudaParaCuidado",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1567,
+    "tipo": "AyudaParaCuidado",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1568,
+    "tipo": "SatisfechoVida",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1569,
+    "tipo": "SatisfechoVida",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1570,
+    "tipo": "AbandonoIntereses",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1571,
+    "tipo": "AbandonoIntereses",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1572,
+    "tipo": "VidaVacia",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1573,
+    "tipo": "VidaVacia",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1574,
+    "tipo": "AburridoFrecuentemente",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1575,
+    "tipo": "AburridoFrecuentemente",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1576,
+    "tipo": "BuenAnimo",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1577,
+    "tipo": "BuenAnimo",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1578,
+    "tipo": "Preocupado",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1579,
+    "tipo": "Preocupado",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1580,
+    "tipo": "Feliz",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1581,
+    "tipo": "Feliz",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1582,
+    "tipo": "Desamparado",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1583,
+    "tipo": "Desamparado",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1584,
+    "tipo": "QuedarseCasa",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1585,
+    "tipo": "QuedarseCasa",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1586,
+    "tipo": "ProblemasMemoria",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1587,
+    "tipo": "ProblemasMemoria",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1588,
+    "tipo": "EstarVivo",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1589,
+    "tipo": "EstarVivo",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1590,
+    "tipo": "SentirInutil",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1591,
+    "tipo": "SentirInutil",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1592,
+    "tipo": "LlenoEnergia",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1593,
+    "tipo": "LlenoEnergia",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1594,
+    "tipo": "SinEsperanza",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1595,
+    "tipo": "SinEsperanza",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1596,
+    "tipo": "PersonasMejorSituacion",
+    "descripcion": "Si",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1597,
+    "tipo": "PersonasMejorSituacion",
+    "descripcion": "No",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1598,
+    "tipo": "Comer",
+    "descripcion": "Incapaz",
+    "codigo_catalogo": "0",
+    "estado": "ACT"
+  },
+  {
+    "id": 1599,
+    "tipo": "Comer",
+    "descripcion": "Necesita ayuda para cortar, extender mantequilla, usar condimentos, etc.",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1600,
+    "tipo": "Comer",
+    "descripcion": "Independiente (puede comer solo)",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1601,
+    "tipo": "TrasladoSillaCama",
+    "descripcion": "Incapaz, no se mantiene sentado.",
+    "codigo_catalogo": "0",
+    "estado": "ACT"
+  },
+  {
+    "id": 1602,
+    "tipo": "TrasladoSillaCama",
+    "descripcion": "Necesita ayuda importante (una persona entrenada o dos personas), puede estar sentado",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1603,
+    "tipo": "TrasladoSillaCama",
+    "descripcion": "Necesita algo de ayuda (una pequeña ayuda fi\u00ADsica o ayuda verbal)",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1604,
+    "tipo": "TrasladoSillaCama",
+    "descripcion": "Independiente",
+    "codigo_catalogo": "15",
+    "estado": "ACT"
+  },
+  {
+    "id": 1605,
+    "tipo": "AseoPersonal",
+    "descripcion": "Necesita ayuda con el aseo personal",
+    "codigo_catalogo": "0",
+    "estado": "ACT"
+  },
+  {
+    "id": 1606,
+    "tipo": "AseoPersonal",
+    "descripcion": "Independiente para lavarse la cara, las manos y los dientes, peinarse y afeitarse.",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1607,
+    "tipo": "UsoRetrete",
+    "descripcion": "Dependiente",
+    "codigo_catalogo": "0",
+    "estado": "ACT"
+  },
+  {
+    "id": 1608,
+    "tipo": "UsoRetrete",
+    "descripcion": "Necesita alguna ayuda, pero puede hacer algo solo",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1609,
+    "tipo": "UsoRetrete",
+    "descripcion": "Independiente (entrar y salir, limpiarse y vestirse)",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1610,
+    "tipo": "Ducharse",
+    "descripcion": "Dependiente",
+    "codigo_catalogo": "0",
+    "estado": "ACT"
+  },
+  {
+    "id": 1611,
+    "tipo": "Ducharse",
+    "descripcion": "Independiente para bañarse o ducharse",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1612,
+    "tipo": "Desplazarse",
+    "descripcion": "Inmovil",
+    "codigo_catalogo": "0",
+    "estado": "ACT"
+  },
+  {
+    "id": 1613,
+    "tipo": "Desplazarse",
+    "descripcion": "Independiente en silla de ruedas en 50 metros",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1614,
+    "tipo": "Desplazarse",
+    "descripcion": "Anda con pequeña ayuda de una persona (fi\u00ADsica o verbal)",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1615,
+    "tipo": "Desplazarse",
+    "descripcion": "Independiente al menos 50m con cualquier tipo de muleta excepto andador",
+    "codigo_catalogo": "15",
+    "estado": "ACT"
+  },
+  {
+    "id": 1616,
+    "tipo": "SubirBajarEscaleras",
+    "descripcion": "Incapaz",
+    "codigo_catalogo": "0",
+    "estado": "ACT"
+  },
+  {
+    "id": 1617,
+    "tipo": "SubirBajarEscaleras",
+    "descripcion": "Necesita ayuda fisica o verbal, puede llevar cualquier tipo de muleta. ",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1618,
+    "tipo": "SubirBajarEscaleras",
+    "descripcion": "Independiente para subir y bajar.",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1619,
+    "tipo": "VestirseDesvestirse",
+    "descripcion": "Dependiente",
+    "codigo_catalogo": "0",
+    "estado": "ACT"
+  },
+  {
+    "id": 1620,
+    "tipo": "VestirseDesvestirse",
+    "descripcion": "Necesita ayuda, pero puede hacer la mitad aproximadamente sin ayuda",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1621,
+    "tipo": "VestirseDesvestirse",
+    "descripcion": "Independiente incluyendo botones, cremalleras (cierres) y cordones",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1622,
+    "tipo": "ControlHeces",
+    "descripcion": "Incontinente (o necesita que le suministren enema)",
+    "codigo_catalogo": "0",
+    "estado": "ACT"
+  },
+  {
+    "id": 1623,
+    "tipo": "ControlHeces",
+    "descripcion": "Accidente excepcional (uno por semana)",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1624,
+    "tipo": "ControlHeces",
+    "descripcion": "Continente",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1625,
+    "tipo": "ControlOrina",
+    "descripcion": "Incontinente o sondado incapaz de cambiarse la bolsa",
+    "codigo_catalogo": "0",
+    "estado": "ACT"
+  },
+  {
+    "id": 1626,
+    "tipo": "ControlOrina",
+    "descripcion": "Accidente excepcional (maximo uno por 24 horas)",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1627,
+    "tipo": "ControlOrina",
+    "descripcion": "Continente, durante al menos 7 di\u00ADas.",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1628,
+    "tipo": "tipo_ficha_vul",
+    "descripcion": "Ficha Vulnerabilidad- Modalidad Diurna, Espacios Activos y Atención Domiciliaria",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1629,
+    "tipo": "tipo_ficha_vul",
+    "descripcion": "Ficha Vulnerabilidad - Modalidad Residencial",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1630,
+    "tipo": "Grado_Secundaria",
+    "descripcion": "1er Curso",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1631,
+    "tipo": "Grado_Secundaria",
+    "descripcion": "2do Curso",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1632,
+    "tipo": "Grado_Secundaria",
+    "descripcion": "3er Curso",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1633,
+    "tipo": "Grado_Secundaria",
+    "descripcion": "4to Curso",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1634,
+    "tipo": "Grado_Secundaria",
+    "descripcion": "5to Curso",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1635,
+    "tipo": "Grado_Secundaria",
+    "descripcion": "6to Curso",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1636,
+    "tipo": "CentroResidencial",
+    "descripcion": "MIES",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1637,
+    "tipo": "CentroResidencial",
+    "descripcion": "GAD (municipio, parroquia)",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1638,
+    "tipo": "CentroResidencial",
+    "descripcion": "Iglesia o templo",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1639,
+    "tipo": "CentroResidencial",
+    "descripcion": "Fundación / ONG",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1640,
+    "tipo": "CentroResidencial",
+    "descripcion": "Centro privado",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1641,
+    "tipo": "CentroResidencial",
+    "descripcion": "Otro",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1642,
+    "tipo": "PropiedadVivienda",
+    "descripcion": "Propia",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1643,
+    "tipo": "PropiedadVivienda",
+    "descripcion": "En arriendo/anticresis",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1644,
+    "tipo": "PropiedadVivienda",
+    "descripcion": "Cedida o gratuita",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1645,
+    "tipo": "PropiedadVivienda",
+    "descripcion": "Vive en situación de calle",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1646,
+    "tipo": "PropiedadVivienda",
+    "descripcion": "No responde",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1647,
+    "tipo": "PropiedadVivienda",
+    "descripcion": "Otro",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1648,
+    "tipo": "FrecuenciaAtencMedic",
+    "descripcion": "Semanal",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1649,
+    "tipo": "FrecuenciaAtencMedic",
+    "descripcion": "Mensual",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1650,
+    "tipo": "FrecuenciaAtencMedic",
+    "descripcion": "Bimensual",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1651,
+    "tipo": "FrecuenciaAtencMedic",
+    "descripcion": "Trimestral",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1652,
+    "tipo": "FrecuenciaAtencMedic",
+    "descripcion": "Anual",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1653,
+    "tipo": "PropiedadVivienda",
+    "descripcion": "Casa para Todos",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1654,
+    "tipo": "Tiene HogarPerDisc",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1655,
+    "tipo": "Tiene HogarPerDisc",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1656,
+    "tipo": "PerdiscRequiereCuidado",
+    "descripcion": "Siempre",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1657,
+    "tipo": "PerdiscRequiereCuidado",
+    "descripcion": "Ocasionalmente",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1658,
+    "tipo": "PerdiscRequiereCuidado",
+    "descripcion": "Rara vez",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1659,
+    "tipo": "PerdiscRequiereCuidado",
+    "descripcion": "No",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1660,
+    "tipo": "PerdiscRecibeCuidado",
+    "descripcion": "Siempre",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1661,
+    "tipo": "PerdiscRecibeCuidado",
+    "descripcion": "Ocasionalmente",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1662,
+    "tipo": "PerdiscRecibeCuidado",
+    "descripcion": "Rara vez",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1663,
+    "tipo": "PerdiscRecibeCuidado",
+    "descripcion": "No",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1664,
+    "tipo": "RespondeEncDis",
+    "descripcion": "Persona posible usuario/a",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1665,
+    "tipo": "RespondeEncDis",
+    "descripcion": "Familiar",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1666,
+    "tipo": "RespondeEncDis",
+    "descripcion": "Otro",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1667,
+    "tipo": "ParentescoDiscapacidad",
+    "descripcion": "Vive Solo",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1668,
+    "tipo": "ParentescoDiscapacidad",
+    "descripcion": "Padres",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1669,
+    "tipo": "ParentescoDiscapacidad",
+    "descripcion": "Solo padre/solo madre",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1670,
+    "tipo": "ParentescoDiscapacidad",
+    "descripcion": "Cónyuge",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1671,
+    "tipo": "ParentescoDiscapacidad",
+    "descripcion": "Hijos/as",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1672,
+    "tipo": "ParentescoDiscapacidad",
+    "descripcion": "Hermanos/as",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1673,
+    "tipo": "ParentescoDiscapacidad",
+    "descripcion": "Nietos",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1674,
+    "tipo": "ParentescoDiscapacidad",
+    "descripcion": "Otros familiares",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 1675,
+    "tipo": "ParentescoDiscapacidad",
+    "descripcion": "Personal de servicio doméstico",
+    "codigo_catalogo": "9",
+    "estado": "ACT"
+  },
+  {
+    "id": 1676,
+    "tipo": "ParentescoDiscapacidad",
+    "descripcion": "Otros no familiares",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1677,
+    "tipo": "ContactoFamiliarDisc",
+    "descripcion": "Padres",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1678,
+    "tipo": "ContactoFamiliarDisc",
+    "descripcion": "Hijos/as",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1679,
+    "tipo": "ContactoFamiliarDisc",
+    "descripcion": "Hermanos/as",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1680,
+    "tipo": "ContactoFamiliarDisc",
+    "descripcion": "Nietos",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1681,
+    "tipo": "ContactoFamiliarDisc",
+    "descripcion": "Otros familiares",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1682,
+    "tipo": "ContactoFamiliarDisc",
+    "descripcion": "Otros no familiares",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1683,
+    "tipo": "PersonaDiscEmbarazada",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1684,
+    "tipo": "PersonaDiscEmbarazada",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1685,
+    "tipo": "FrecuenciaContaComunidad",
+    "descripcion": "Siempre",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1686,
+    "tipo": "FrecuenciaContaComunidad",
+    "descripcion": "Ocasionalmente",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1687,
+    "tipo": "FrecuenciaContaComunidad",
+    "descripcion": "Rara vez",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1688,
+    "tipo": "FrecuenciaContaComunidad",
+    "descripcion": "Nunca",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1689,
+    "tipo": "FrecuenciActividadesRecre",
+    "descripcion": "Siempre",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1690,
+    "tipo": "FrecuenciActividadesRecre",
+    "descripcion": "Ocasionalmente",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1691,
+    "tipo": "FrecuenciActividadesRecre",
+    "descripcion": "Rara vez",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1692,
+    "tipo": "FrecuenciActividadesRecre",
+    "descripcion": "Nunca",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1693,
+    "tipo": "Trabaja",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1694,
+    "tipo": "Trabaja",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1695,
+    "tipo": "OcupacionDisc",
+    "descripcion": "Funcionario Público",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1696,
+    "tipo": "OcupacionDisc",
+    "descripcion": "Funcionario Privado",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1697,
+    "tipo": "OcupacionDisc",
+    "descripcion": "Artesano independiente",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1698,
+    "tipo": "OcupacionDisc",
+    "descripcion": "Comerciante Independiente",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1699,
+    "tipo": "OcupacionDisc",
+    "descripcion": "Trabajador No Remunerado del hogar",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1700,
+    "tipo": "OcupacionDisc",
+    "descripcion": "Empleada (o) doméstica (o)",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1701,
+    "tipo": "OcupacionDisc",
+    "descripcion": "Otro, ¿cuál?",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1702,
+    "tipo": "RazonTrabajoDisc",
+    "descripcion": "Generar ingresos familiares",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1703,
+    "tipo": "RazonTrabajoDisc",
+    "descripcion": "Para cubrir sólo sus gastos personales",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1704,
+    "tipo": "RazonTrabajoDisc",
+    "descripcion": "Para mantenerse ocupado",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1705,
+    "tipo": "RazonTrabajoDisc",
+    "descripcion": "Es obligado a trabajar",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1706,
+    "tipo": "RazonTrabajoDisc",
+    "descripcion": "Otra razón",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1707,
+    "tipo": "RazonTrabajoDisc",
+    "descripcion": "Ninguna",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1708,
+    "tipo": "Sustituto",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1709,
+    "tipo": "Sustituto",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1710,
+    "tipo": "SustitutoTrabaja",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1711,
+    "tipo": "SustitutoTrabaja",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1712,
+    "tipo": "TieneCuidador",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1713,
+    "tipo": "TieneCuidador",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1714,
+    "tipo": "ParentescoCuidadorDisc",
+    "descripcion": "Hijos/as",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1715,
+    "tipo": "ParentescoCuidadorDisc",
+    "descripcion": "Hermanos/as",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1716,
+    "tipo": "ParentescoCuidadorDisc",
+    "descripcion": "Nietos",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1717,
+    "tipo": "ParentescoCuidadorDisc",
+    "descripcion": "Otros familiares",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1718,
+    "tipo": "ParentescoCuidadorDisc",
+    "descripcion": "Personal de servicio doméstico",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1719,
+    "tipo": "ParentescoCuidadorDisc",
+    "descripcion": "Otros no familiares",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1720,
+    "tipo": "Sexo",
+    "descripcion": "LGBTI",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1721,
+    "tipo": "SexoDisc",
+    "descripcion": "Mujer",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1722,
+    "tipo": "SexoDisc",
+    "descripcion": "Hombre",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1723,
+    "tipo": "TiposCuidados",
+    "descripcion": "Higiene personal",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1724,
+    "tipo": "TiposCuidados",
+    "descripcion": "Preparación e ingesta de alimentos",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1725,
+    "tipo": "TiposCuidados",
+    "descripcion": "Apoyo para el vestido",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1726,
+    "tipo": "TiposCuidados",
+    "descripcion": "Toma de medicación",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1727,
+    "tipo": "TiposCuidados",
+    "descripcion": "Quehaceres de hogar",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1728,
+    "tipo": "TiposCuidados",
+    "descripcion": "Acompañamiento a control de salud",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1729,
+    "tipo": "TiposCuidados",
+    "descripcion": "Acompañamiento a educación",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1730,
+    "tipo": "TiposCuidados",
+    "descripcion": "Ocio y recreación",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 1731,
+    "tipo": "TiposCuidados",
+    "descripcion": "Otro tipo de cuidado",
+    "codigo_catalogo": "9",
+    "estado": "ACT"
+  },
+  {
+    "id": 1732,
+    "tipo": "TiposCuidados",
+    "descripcion": "No necesita",
+    "codigo_catalogo": "10",
+    "estado": "ACT"
+  },
+  {
+    "id": 1733,
+    "tipo": "FrecuenciaCuidado",
+    "descripcion": "Diario",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1734,
+    "tipo": "FrecuenciaCuidado",
+    "descripcion": "Semanal",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1735,
+    "tipo": "FrecuenciaCuidado",
+    "descripcion": "Mensual",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1736,
+    "tipo": "FrecuenciaCuidado",
+    "descripcion": "Anual",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1737,
+    "tipo": "FrecuenciaCuidado",
+    "descripcion": "Menos de una vez por año",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1738,
+    "tipo": "FrecuenciaCuidado",
+    "descripcion": "Nunca",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1739,
+    "tipo": "CuidadorPerteneceComite",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1740,
+    "tipo": "CuidadorPerteneceComite",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1741,
+    "tipo": "EntidadComite",
+    "descripcion": "MIES",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1742,
+    "tipo": "EntidadComite",
+    "descripcion": "MSP",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1743,
+    "tipo": "EntidadComite",
+    "descripcion": "Otro",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1744,
+    "tipo": "PersonaGeneraIngreso",
+    "descripcion": "Familiar",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1745,
+    "tipo": "PersonaGeneraIngreso",
+    "descripcion": "Otro",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1746,
+    "tipo": "PersonaGeneraIngreso",
+    "descripcion": "Ninguno",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1747,
+    "tipo": "PensionBono",
+    "descripcion": "Bono de Desarrollo Humano",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1748,
+    "tipo": "PensionBono",
+    "descripcion": "Pensión para personas con discapacidad ",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1749,
+    "tipo": "PensionBono",
+    "descripcion": "Pensión para personas adultas mayores",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1750,
+    "tipo": "PensionBono",
+    "descripcion": "Pensión Mis Mejores Años",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1751,
+    "tipo": "PensionBono",
+    "descripcion": "Bono  Joaquín Gallegos Lara",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1752,
+    "tipo": "PensionBono",
+    "descripcion": "Otro",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1753,
+    "tipo": "ServicioBasicoHogar",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1754,
+    "tipo": "ServicioBasicoHogar",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1755,
+    "tipo": "ServicioBasicoHogar",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1756,
+    "tipo": "AlimentacionHogar",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1757,
+    "tipo": "AlimentacionHogar",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1758,
+    "tipo": "AlimentacionHogar",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1759,
+    "tipo": "SaludHogar",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1760,
+    "tipo": "SaludHogar",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1761,
+    "tipo": "SaludHogar",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1762,
+    "tipo": "EducacionHogar",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1763,
+    "tipo": "EducacionHogar",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1764,
+    "tipo": "EducacionHogar",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1765,
+    "tipo": "ArriendoHogar",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1766,
+    "tipo": "ArriendoHogar",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1767,
+    "tipo": "ArriendoHogar",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1768,
+    "tipo": "VestidoHogar",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1769,
+    "tipo": "VestidoHogar",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1770,
+    "tipo": "VestidoHogar",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1771,
+    "tipo": "MovilizacionHogar",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1772,
+    "tipo": "MovilizacionHogar",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1773,
+    "tipo": "MovilizacionHogar",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1774,
+    "tipo": "RecreacionHogar",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1775,
+    "tipo": "RecreacionHogar",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1776,
+    "tipo": "RecreacionHogar",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1777,
+    "tipo": "OtrosHogar",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1778,
+    "tipo": "OtrosHogar",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1779,
+    "tipo": "OtrosHogar",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1780,
+    "tipo": "VestimentaDisc",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1781,
+    "tipo": "VestimentaDisc",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1782,
+    "tipo": "VestimentaDisc",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1783,
+    "tipo": "SaludDisc",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1784,
+    "tipo": "SaludDisc",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1785,
+    "tipo": "SaludDisc",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1786,
+    "tipo": "EducacionDisc",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1787,
+    "tipo": "EducacionDisc",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1788,
+    "tipo": "EducacionDisc",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1789,
+    "tipo": "AyudaTecnicaDisc",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1790,
+    "tipo": "AyudaTecnicaDisc",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1791,
+    "tipo": "AyudaTecnicaDisc",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1792,
+    "tipo": "TransporteDisc",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1793,
+    "tipo": "TransporteDisc",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1794,
+    "tipo": "TransporteDisc",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1795,
+    "tipo": "OtrosDisc",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1796,
+    "tipo": "OtrosDisc",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1797,
+    "tipo": "OtrosDisc",
+    "descripcion": "NO SABE",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1798,
+    "tipo": "PersonaDiscTresComidas",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1799,
+    "tipo": "PersonaDiscTresComidas",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1800,
+    "tipo": "PerDiscHospitalizada",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1801,
+    "tipo": "PerDiscHospitalizada",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1802,
+    "tipo": "EnfermedadCatastrofica",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1803,
+    "tipo": "EnfermedadCatastrofica",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1804,
+    "tipo": "TratamientoEspecializado",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1805,
+    "tipo": "TratamientoEspecializado",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1806,
+    "tipo": "FrecuenciaTratamiento",
+    "descripcion": "Mensual",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1807,
+    "tipo": "FrecuenciaTratamiento",
+    "descripcion": "Bimensual",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1808,
+    "tipo": "FrecuenciaTratamiento",
+    "descripcion": "Trimestral",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1809,
+    "tipo": "FrecuenciaTratamiento",
+    "descripcion": "Anual",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1810,
+    "tipo": "LugarAsistenciaMedicaDisc",
+    "descripcion": "Centro de atención público",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1811,
+    "tipo": "LugarAsistenciaMedicaDisc",
+    "descripcion": "Centro de atención privado",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1812,
+    "tipo": "NecesidaAyudaTecDisc",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1813,
+    "tipo": "NecesidaAyudaTecDisc",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1814,
+    "tipo": "UtilizaAyudasTecDisc",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1815,
+    "tipo": "UtilizaAyudasTecDisc",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1816,
+    "tipo": "AyudaEmergenciaFamiliar",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1817,
+    "tipo": "AyudaEmergenciaFamiliar",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1818,
+    "tipo": "EstadiaHogar",
+    "descripcion": "Muy querido",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1819,
+    "tipo": "EstadiaHogar",
+    "descripcion": "Poco querido",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1820,
+    "tipo": "EstadiaHogar",
+    "descripcion": "No querido",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1821,
+    "tipo": "RelacionFamiliar",
+    "descripcion": "Respetuosa / confiable / amorosa",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1822,
+    "tipo": "RelacionFamiliar",
+    "descripcion": "Irrespetuosa / problemática",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1823,
+    "tipo": "RelacionFamiliar",
+    "descripcion": "Indiferente",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1824,
+    "tipo": "OpinionesEscuchadas",
+    "descripcion": "Siempre",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1825,
+    "tipo": "OpinionesEscuchadas",
+    "descripcion": "A veces",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1826,
+    "tipo": "OpinionesEscuchadas",
+    "descripcion": "Nunca",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1827,
+    "tipo": "ResponsaCotidianas",
+    "descripcion": "Útil",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1828,
+    "tipo": "ResponsaCotidianas",
+    "descripcion": "Ignorado",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1829,
+    "tipo": "ResponsaCotidianas",
+    "descripcion": "Inútil",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1830,
+    "tipo": "ProblemasFamiliares",
+    "descripcion": "Conversar con usted sobre lo que pasó",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1831,
+    "tipo": "ProblemasFamiliares",
+    "descripcion": "Se enojan con usted",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1832,
+    "tipo": "ProblemasFamiliares",
+    "descripcion": "Le ignoran",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1833,
+    "tipo": "MaltratoHogar",
+    "descripcion": "Siempre",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1834,
+    "tipo": "MaltratoHogar",
+    "descripcion": "A veces",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1835,
+    "tipo": "MaltratoHogar",
+    "descripcion": "Nunca",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1836,
+    "tipo": "PeriodosSoloHogar",
+    "descripcion": "Siempre",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1837,
+    "tipo": "PeriodosSoloHogar",
+    "descripcion": "A veces",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1838,
+    "tipo": "PeriodosSoloHogar",
+    "descripcion": "Nunca",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1839,
+    "tipo": "SinAlimentos",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1840,
+    "tipo": "SinAlimentos",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1841,
+    "tipo": "FrecuenciaSinAlimentos",
+    "descripcion": "Siempre",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1842,
+    "tipo": "FrecuenciaSinAlimentos",
+    "descripcion": "A Veces",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1843,
+    "tipo": "ManejaDineroSinConsentimiento",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1844,
+    "tipo": "ManejaDineroSinConsentimiento",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1845,
+    "tipo": "TocadoCuerpo",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1846,
+    "tipo": "TocadoCuerpo",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1847,
+    "tipo": "AmenazaAbandono",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1848,
+    "tipo": "AmenazaAbandono",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1849,
+    "tipo": "FrecuenciaTristeza",
+    "descripcion": "Siempre",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1850,
+    "tipo": "FrecuenciaTristeza",
+    "descripcion": "A Veces",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1851,
+    "tipo": "FrecuenciaTristeza",
+    "descripcion": "Nunca",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1852,
+    "tipo": "AfectaRelacionFamiliar",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1853,
+    "tipo": "AfectaRelacionFamiliar",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1854,
+    "tipo": "Consumo",
+    "descripcion": "Diario",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1855,
+    "tipo": "Consumo",
+    "descripcion": "1 vez a la semana",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1856,
+    "tipo": "Consumo",
+    "descripcion": "1 vez al mes",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1857,
+    "tipo": "Consumo",
+    "descripcion": "Nunca",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1858,
+    "tipo": "FrecuenciaMendigarDisc",
+    "descripcion": "Siempre",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1859,
+    "tipo": "FrecuenciaMendigarDisc",
+    "descripcion": "A Veces",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1860,
+    "tipo": "FrecuenciaMendigarDisc",
+    "descripcion": "Nunca",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1861,
+    "tipo": "AmenazasHogar",
+    "descripcion": "Verbal",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1862,
+    "tipo": "AmenazasHogar",
+    "descripcion": "Física",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1863,
+    "tipo": "AmenazasHogar",
+    "descripcion": "Psicológica",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1864,
+    "tipo": "AmenazasHogar",
+    "descripcion": "Sexual",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1865,
+    "tipo": "AmenazasHogar",
+    "descripcion": "Patrimonial",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1866,
+    "tipo": "AmenazasHogar",
+    "descripcion": "Ninguno",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1867,
+    "tipo": "RealizadoDenuncia",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1868,
+    "tipo": "RealizadoDenuncia",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1869,
+    "tipo": "AccesoViviendaDisc",
+    "descripcion": "Carretera/calle pavimentada, adoquinada o concreto ",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1870,
+    "tipo": "AccesoViviendaDisc",
+    "descripcion": "Empedrado",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1871,
+    "tipo": "AccesoViviendaDisc",
+    "descripcion": "Lastrado/calle de tierra",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1872,
+    "tipo": "AccesoViviendaDisc",
+    "descripcion": "Sendero/camino/chaquiñán",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1873,
+    "tipo": "AccesoViviendaDisc",
+    "descripcion": "Río/mar/lago",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1874,
+    "tipo": "ViviendaCondicionesHabitar",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1875,
+    "tipo": "ViviendaCondicionesHabitar",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1876,
+    "tipo": "ViviendaAccesoFisico",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1877,
+    "tipo": "ViviendaAccesoFisico",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1878,
+    "tipo": "UbicacionRiesgo",
+    "descripcion": "Quebradas",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1879,
+    "tipo": "UbicacionRiesgo",
+    "descripcion": "Orillas",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1880,
+    "tipo": "UbicacionRiesgo",
+    "descripcion": "Peñascos",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1881,
+    "tipo": "UbicacionRiesgo",
+    "descripcion": "Asentamientos",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1882,
+    "tipo": "UbicacionRiesgo",
+    "descripcion": "Zona de deslaves",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1883,
+    "tipo": "UbicacionRiesgo",
+    "descripcion": "Ríos",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1884,
+    "tipo": "UbicacionRiesgo",
+    "descripcion": "Ninguno",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1885,
+    "tipo": "ViviendaZonaTolerancia",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1886,
+    "tipo": "ViviendaZonaTolerancia",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1887,
+    "tipo": "CuartoExcDormirDisc",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1888,
+    "tipo": "CuartoExcDormirDisc",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1889,
+    "tipo": "ProvieneAguaDisc",
+    "descripcion": "Red Pública",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1890,
+    "tipo": "ProvieneAguaDisc",
+    "descripcion": "Pila/pileta/llave pública",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1891,
+    "tipo": "ProvieneAguaDisc",
+    "descripcion": "Otra fuente por tubería",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1892,
+    "tipo": "ProvieneAguaDisc",
+    "descripcion": "Carro repartidor/triciclo",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1893,
+    "tipo": "ProvieneAguaDisc",
+    "descripcion": "Pozo",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1894,
+    "tipo": "ProvieneAguaDisc",
+    "descripcion": "Río/vertiente o acequia ",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1895,
+    "tipo": "ProvieneAguaDisc",
+    "descripcion": "Agua lluvia ",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1896,
+    "tipo": "DistSaludEduc",
+    "descripcion": "Menos de 30 minutos",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1897,
+    "tipo": "DistSaludEduc",
+    "descripcion": "Una hora",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1898,
+    "tipo": "DistSaludEduc",
+    "descripcion": "Más de una hora",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1899,
+    "tipo": "AfiliacionDisc",
+    "descripcion": "IESS, Seguro General Dependiente",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1900,
+    "tipo": "AfiliacionDisc",
+    "descripcion": "IESS, Seguro Voluntario",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1901,
+    "tipo": "AfiliacionDisc",
+    "descripcion": "IESS, Seguro Campesino",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1902,
+    "tipo": "AfiliacionDisc",
+    "descripcion": "Seguro ISSFA o ISSPOL",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1903,
+    "tipo": "AfiliacionDisc",
+    "descripcion": "Seguro de Salud Privado",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1904,
+    "tipo": "AfiliacionDisc",
+    "descripcion": "Seguro Comunitario",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1905,
+    "tipo": "AfiliacionDisc",
+    "descripcion": "Seguro para trabajador no remunerado del hogar",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 1906,
+    "tipo": "AfiliacionDisc",
+    "descripcion": "Ninguno",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 1907,
+    "tipo": "ServAtenPublico",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1908,
+    "tipo": "ServAtenPublico",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1909,
+    "tipo": "ServAtenDisc",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1910,
+    "tipo": "ServAtenDisc",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1911,
+    "tipo": "ServiciosDisc",
+    "descripcion": "MIES",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1912,
+    "tipo": "ServiciosDisc",
+    "descripcion": "GAD (provincia, cantón, parroquia)",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1913,
+    "tipo": "ServiciosDisc",
+    "descripcion": "Iglesia o templo",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1914,
+    "tipo": "ServiciosDisc",
+    "descripcion": "Fundación / ONG",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1915,
+    "tipo": "ServiciosDisc",
+    "descripcion": "Centro privado",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1916,
+    "tipo": "ServiciosDisc",
+    "descripcion": "Otro, especifique",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 1917,
+    "tipo": "AccesoServDisc",
+    "descripcion": "Centro Diurno",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1918,
+    "tipo": "AccesoServDisc",
+    "descripcion": "Centro de Referencia y acogida",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1919,
+    "tipo": "AccesoServDisc",
+    "descripcion": "Atención en el Hogar y la Comunidad",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1920,
+    "tipo": "AccesoServDisc",
+    "descripcion": "Bono Joaquín Gallegos Lara",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1921,
+    "tipo": "AccesoServDisc",
+    "descripcion": "Ninguno",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1922,
+    "tipo": "TiempoLlegarServDisc",
+    "descripcion": "Menos de 30 minutos",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1923,
+    "tipo": "TiempoLlegarServDisc",
+    "descripcion": "De 30 a 60 minutos",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1924,
+    "tipo": "TiempoLlegarServDisc",
+    "descripcion": "De una a dos horas",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1925,
+    "tipo": "MiesServicio",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1926,
+    "tipo": "MiesServicio",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1927,
+    "tipo": "SiServicio",
+    "descripcion": "Necesito lugar donde vivir",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1928,
+    "tipo": "SiServicio",
+    "descripcion": "Necesito alimentación",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1929,
+    "tipo": "SiServicio",
+    "descripcion": "Requiere protección ante violencia intrafamiliar",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1930,
+    "tipo": "SiServicio",
+    "descripcion": "Desarrollo de habilidades sociales y económicas",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1931,
+    "tipo": "SiServicio",
+    "descripcion": "Otro",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1932,
+    "tipo": "NoServicio",
+    "descripcion": "No tengo tiempo para ir",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1933,
+    "tipo": "NoServicio",
+    "descripcion": "Distante / no tengo transporte",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1934,
+    "tipo": "NoServicio",
+    "descripcion": "No tengo dinero",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 1935,
+    "tipo": "NoServicio",
+    "descripcion": "Tengo malas referencias",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 1936,
+    "tipo": "NoServicio",
+    "descripcion": "Otro",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 1937,
+    "tipo": "ConfinadoCama",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1938,
+    "tipo": "ConfinadoCama",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1939,
+    "tipo": "ConfinadoSilla",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1940,
+    "tipo": "ConfinadoSilla",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1941,
+    "tipo": "UsuarioSilla",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1942,
+    "tipo": "UsuarioSilla",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1943,
+    "tipo": "AndaNoPie",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1944,
+    "tipo": "AndaNoPie",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1945,
+    "tipo": "AndaPie",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1946,
+    "tipo": "AndaPie",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1947,
+    "tipo": "AcostarseDisc",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1948,
+    "tipo": "AcostarseDisc",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1949,
+    "tipo": "LevarseDisc",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1950,
+    "tipo": "LevarseDisc",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1951,
+    "tipo": "CambioPostulares",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1952,
+    "tipo": "CambioPostulares",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1953,
+    "tipo": "ManejoRopa",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1954,
+    "tipo": "ManejoRopa",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1955,
+    "tipo": "PonersePrendasSuperior",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1956,
+    "tipo": "PonersePrendasSuperior",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1957,
+    "tipo": "PonersePrendasInferior",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1958,
+    "tipo": "PonersePrendasInferior",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1959,
+    "tipo": "PonerseCalzado",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1960,
+    "tipo": "PonerseCalzado",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1961,
+    "tipo": "AbrocharBotones",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1962,
+    "tipo": "AbrocharBotones",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1963,
+    "tipo": "DucharseDisc",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1964,
+    "tipo": "DucharseDisc",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1965,
+    "tipo": "UsarRetreteDisc",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1966,
+    "tipo": "UsarRetreteDisc",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1967,
+    "tipo": "LavarseManos",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1968,
+    "tipo": "LavarseManos",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1969,
+    "tipo": "LavarsePies",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1970,
+    "tipo": "LavarsePies",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1971,
+    "tipo": "OtrasActHigiene",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1972,
+    "tipo": "OtrasActHigiene",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1973,
+    "tipo": "SujetarCubiertos",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1974,
+    "tipo": "SujetarCubiertos",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1975,
+    "tipo": "SujetarJarras",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1976,
+    "tipo": "SujetarJarras",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1977,
+    "tipo": "ServirseDisc",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1978,
+    "tipo": "ServirseDisc",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1979,
+    "tipo": "ObtenerAyudaUrg",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1980,
+    "tipo": "ObtenerAyudaUrg",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1981,
+    "tipo": "ContestarLlamada",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1982,
+    "tipo": "ContestarLlamada",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1983,
+    "tipo": "UsarTelf",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1984,
+    "tipo": "UsarTelf",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1985,
+    "tipo": "SeguridadAcceso",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1986,
+    "tipo": "SeguridadAcceso",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1987,
+    "tipo": "ManejarDispositivos",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1988,
+    "tipo": "ManejarDispositivos",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1989,
+    "tipo": "ManejarObjetos",
+    "descripcion": "No Puede",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1990,
+    "tipo": "ManejarObjetos",
+    "descripcion": "Puede",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1991,
+    "tipo": "DependeApaEsp",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1992,
+    "tipo": "DependeApaEsp",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1993,
+    "tipo": "NecesitaPreca",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1994,
+    "tipo": "NecesitaPreca",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1995,
+    "tipo": "DependenciaPer",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1996,
+    "tipo": "DependenciaPer",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1997,
+    "tipo": "IncapacidadTotal",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 1998,
+    "tipo": "IncapacidadTotal",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 1999,
+    "tipo": "PresentaHabitos",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2000,
+    "tipo": "PresentaHabitos",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2001,
+    "tipo": "PresentaConductas",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2002,
+    "tipo": "PresentaConductas",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2003,
+    "tipo": "NecesitaProt",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2004,
+    "tipo": "NecesitaProt",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2005,
+    "tipo": "PrecisaDispo",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2006,
+    "tipo": "PrecisaDispo",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2007,
+    "tipo": "TotalIncapacidadGrave",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2008,
+    "tipo": "TotalIncapacidadGrave",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2009,
+    "tipo": "PreGrado",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2010,
+    "tipo": "PreGrado",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2011,
+    "tipo": "CapaAdap",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2012,
+    "tipo": "CapaAdap",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2013,
+    "tipo": "DifIntelectual",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2014,
+    "tipo": "DifIntelectual",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2015,
+    "tipo": "IncaSituaciones",
+    "descripcion": "SI",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2016,
+    "tipo": "IncaSituaciones",
+    "descripcion": "NO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2017,
+    "tipo": "CargaCuidador1",
+    "descripcion": "Nunca",
+    "codigo_catalogo": "0",
+    "estado": "ACT"
+  },
+  {
+    "id": 2018,
+    "tipo": "CargaCuidador1",
+    "descripcion": "Casi Nunca",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2019,
+    "tipo": "CargaCuidador1",
+    "descripcion": "A Veces",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2020,
+    "tipo": "CargaCuidador1",
+    "descripcion": "Bastantes Veces",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 2021,
+    "tipo": "CargaCuidador1",
+    "descripcion": "Casi Siempre",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 2022,
+    "tipo": "IdiomaDisc",
+    "descripcion": "Castellano / Español",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2023,
+    "tipo": "IdiomaDisc",
+    "descripcion": "Lengua Nativa ",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2024,
+    "tipo": "IdiomaDisc",
+    "descripcion": "Lengua Extranjera ",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 2025,
+    "tipo": "IdiomaDisc",
+    "descripcion": "Lengua de señas",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 2026,
+    "tipo": "IdiomaDisc",
+    "descripcion": "Comunicación escrita",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 2027,
+    "tipo": "IdiomaDisc",
+    "descripcion": "Braille",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 2028,
+    "tipo": "IdiomaDisc",
+    "descripcion": "JAWS",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 2029,
+    "tipo": "IdiomaDisc",
+    "descripcion": "No Puede Comunicarse",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 2030,
+    "tipo": "AsistMedicaLugarRes",
+    "descripcion": "Establecimiento de la red pública de salud (MSP/IESS/ISSFA/ISSPOL)",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2031,
+    "tipo": "AsistMedicaLugarRes",
+    "descripcion": "Establecimiento de salud privado",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2032,
+    "tipo": "AsistMedicaLugarRes",
+    "descripcion": "En el mismo centro gerontológico residencial",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 2033,
+    "tipo": "FrecuenciaTratamiento",
+    "descripcion": "Diaria",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 2034,
+    "tipo": "FrecuenciaTratamiento",
+    "descripcion": "Semanal",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 2035,
+    "tipo": "ParentescoCuidadorDisc",
+    "descripcion": "Padre / Madre",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 2036,
+    "tipo": "TipoViviendaDisc",
+    "descripcion": "Casa/Villa",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2037,
+    "tipo": "TipoViviendaDisc",
+    "descripcion": "Departamento",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2038,
+    "tipo": "TipoViviendaDisc",
+    "descripcion": "Cuartos (Casa inquilino)",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 2039,
+    "tipo": "TipoViviendaDisc",
+    "descripcion": "Mediagua",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 2040,
+    "tipo": "TipoViviendaDisc",
+    "descripcion": "Covacha/rancho",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 2041,
+    "tipo": "TipoViviendaDisc",
+    "descripcion": "Choza",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 2042,
+    "tipo": "TipoViviendaDisc",
+    "descripcion": "Cueva ",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 2043,
+    "tipo": "TipoViviendaDisc",
+    "descripcion": "Otro",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 2044,
+    "tipo": "TiempoLlegarServDisc",
+    "descripcion": "No Aplica",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 2045,
+    "tipo": "GradoNoUniversitarioAM",
+    "descripcion": "COMPLETO",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2046,
+    "tipo": "GradoNoUniversitarioAM",
+    "descripcion": "INCOMPLETO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2047,
+    "tipo": "GradoUniversitarioAM",
+    "descripcion": "COMPLETO",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2048,
+    "tipo": "GradoUniversitarioAM",
+    "descripcion": "INCOMPLETO",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2049,
+    "tipo": "IntruccionAM",
+    "descripcion": "Ninguno",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2050,
+    "tipo": "IntruccionAM",
+    "descripcion": "Centro de alfabetización",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2051,
+    "tipo": "IntruccionAM",
+    "descripcion": "Jardín de Infantes",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 2052,
+    "tipo": "IntruccionAM",
+    "descripcion": "Primaria",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 2053,
+    "tipo": "IntruccionAM",
+    "descripcion": "Secundaria",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 2054,
+    "tipo": "IntruccionAM",
+    "descripcion": "Superior No Universitario",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 2055,
+    "tipo": "IntruccionAM",
+    "descripcion": "Superior Universitario",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 2056,
+    "tipo": "IntruccionAM",
+    "descripcion": "Post-Grado",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 2057,
+    "tipo": "PropiedadViviendaDisc",
+    "descripcion": "Propia",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2058,
+    "tipo": "PropiedadViviendaDisc",
+    "descripcion": "En arriendo/anticresis",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2059,
+    "tipo": "PropiedadViviendaDisc",
+    "descripcion": "Cedida o gratuita",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 2060,
+    "tipo": "PropiedadViviendaDisc",
+    "descripcion": "Vive en situación de calle",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 2061,
+    "tipo": "PropiedadViviendaDisc",
+    "descripcion": "No responde",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 2062,
+    "tipo": "PropiedadViviendaDisc",
+    "descripcion": "Herencia",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 2063,
+    "tipo": "PropiedadViviendaDisc",
+    "descripcion": "Invasión",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 2065,
+    "tipo": "PropiedadViviendaDisc",
+    "descripcion": "Otro",
+    "codigo_catalogo": "8",
+    "estado": "ACT"
+  },
+  {
+    "id": 2301,
+    "tipo": "JefaturaHogar",
+    "descripcion": "Madre",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2302,
+    "tipo": "JefaturaHogar",
+    "descripcion": "Padre",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2303,
+    "tipo": "JefaturaHogar",
+    "descripcion": "Tía/o",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 2304,
+    "tipo": "JefaturaHogar",
+    "descripcion": "Hija/o adolescente entre 12 y 17 años",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 2305,
+    "tipo": "JefaturaHogar",
+    "descripcion": "Hija/o joven entre 18 y 29 años",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 2306,
+    "tipo": "JefaturaHogar",
+    "descripcion": "Persona adulta mayor",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 2307,
+    "tipo": "JefaturaHogar",
+    "descripcion": "Otros NO familiares",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 2308,
+    "tipo": "LugaresEsparcimiento",
+    "descripcion": "En el domicilio",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2309,
+    "tipo": "LugaresEsparcimiento",
+    "descripcion": "En casa de amigos",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2310,
+    "tipo": "LugaresEsparcimiento",
+    "descripcion": "En el parque",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 2311,
+    "tipo": "LugaresEsparcimiento",
+    "descripcion": "En la finca",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 2312,
+    "tipo": "LugaresEsparcimiento",
+    "descripcion": "En la playa",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 2313,
+    "tipo": "LugaresEsparcimiento",
+    "descripcion": "En la montaña",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 2314,
+    "tipo": "ComunicaComunidad",
+    "descripcion": "Vecino/a",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2315,
+    "tipo": "ComunicaComunidad",
+    "descripcion": "Tendero/a",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2316,
+    "tipo": "ComunicaComunidad",
+    "descripcion": "Panadero/a",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 2317,
+    "tipo": "ComunicaComunidad",
+    "descripcion": "Policía",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 2318,
+    "tipo": "ComunicaComunidad",
+    "descripcion": "Lider/esa",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  },
+  {
+    "id": 2319,
+    "tipo": "ComunicaComunidad",
+    "descripcion": "Párraco/Pastor",
+    "codigo_catalogo": "6",
+    "estado": "ACT"
+  },
+  {
+    "id": 2320,
+    "tipo": "ComunicaComunidad",
+    "descripcion": "Otros",
+    "codigo_catalogo": "7",
+    "estado": "ACT"
+  },
+  {
+    "id": 2321,
+    "tipo": "FamOtroPais",
+    "descripcion": "Menos de un mes",
+    "codigo_catalogo": "1",
+    "estado": "ACT"
+  },
+  {
+    "id": 2322,
+    "tipo": "FamOtroPais",
+    "descripcion": "Entre un mes y tres meses",
+    "codigo_catalogo": "2",
+    "estado": "ACT"
+  },
+  {
+    "id": 2323,
+    "tipo": "FamOtroPais",
+    "descripcion": "Entre tres y seis meses",
+    "codigo_catalogo": "3",
+    "estado": "ACT"
+  },
+  {
+    "id": 2324,
+    "tipo": "FamOtroPais",
+    "descripcion": "Entre seis meses y un año",
+    "codigo_catalogo": "4",
+    "estado": "ACT"
+  },
+  {
+    "id": 2325,
+    "tipo": "FamOtroPais",
+    "descripcion": "Mas de un año",
+    "codigo_catalogo": "5",
+    "estado": "ACT"
+  }
+]
